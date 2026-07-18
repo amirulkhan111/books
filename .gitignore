@@ -1,0 +1,42 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Word / Office temp & lock files
+~$*.docx
+~$*.doc
+~$*.xlsx
+~$*.pptx
+*.tmp
+
+# Build / export output (generated from manuscript, not source)
+/dist/
+/build/
+/_book/
+/output/
+*.pdf
+!manuscript/**/*.pdf
+
+# Node / static-site tooling (mkdocs, docsify, etc.), if introduced later
+node_modules/
+package-lock.json
+.docusaurus/
+site/
+
+# Python tooling (citation-check / build scripts), if introduced later
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs and scratch
+*.log
+/scratch/
+/tmp/
