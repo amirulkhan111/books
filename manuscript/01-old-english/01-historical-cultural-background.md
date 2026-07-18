@@ -118,7 +118,7 @@ The interaction of these two strands — a pagan Germanic heroic ethos and a Chr
 |---|---|---|---|---|---|---|
 | *De Excidio et Conquestu Britanniae* | Gildas, British monk | c. 510s–540s | Latin | Polemical sermon | Only substantially contemporary witness to the settlement period | Moralizing purpose distorts factual reliability; near-silent on precise names/dates |
 | *Historia Ecclesiastica Gentis Anglorum* | Bede, Northumbrian monk | 731 | Latin | Ecclesiastical history | Careful, source-comparing narrative; earliest record of Cædmon | Providential framing; written nearly three centuries after the settlement |
-| *Anglo-Saxon Chronicle* | Multiple monastic compilers, begun under Alfred | Compiled from ٨٩٠s; continued to 1154 | Old English (with some Latin) | Annals, with embedded verse | Vernacular prose continuity across centuries; near-contemporary for later entries | Earlier entries are retrospective and formulaic; regional versions diverge |
+| *Anglo-Saxon Chronicle* | Multiple monastic compilers, begun under Alfred | Compiled from the 890s; continued to 1154 | Old English (with some Latin) | Annals, with embedded verse | Vernacular prose continuity across centuries; near-contemporary for later entries | Earlier entries are retrospective and formulaic; regional versions diverge |
 
 ---
 
@@ -148,7 +148,6 @@ The Old English literary period unfolds against three overlapping historical pro
 - **Heptarchy** — a traditional (and imprecise) term for the seven principal Anglo-Saxon kingdoms: Kent, Northumbria, Mercia, East Anglia, Essex, Sussex, Wessex.
 - **Scop** — an Old English poet-singer, oral performer of vernacular verse.
 - **Scriptorium** — a monastic room dedicated to the copying and production of manuscripts.
-- **Witan / Witenagemot** — the council of an Anglo-Saxon king's leading nobles and clergy.
 
 ---
 

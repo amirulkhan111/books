@@ -13,7 +13,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 
 ---
 
-## Part I — Old English (Anglo-Saxon) Literature, c. 450–1066 🟨 (7/7 chapters drafted; pending peer/copy-edit review)
+## Part I — Old English (Anglo-Saxon) Literature, c. 450–1066 ✅ (7/7 chapters complete and peer/copy-edit reviewed)
 1. Historical and cultural background: settlement, conversion, the Viking incursions
 2. Oral-formulaic tradition and the scop
 3. *Beowulf*: transmission, form, and critical reception
@@ -22,7 +22,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 6. Prose: Alfredian translation programme, Bede, the *Anglo-Saxon Chronicle*
 7. The Anglo-Saxon legacy in later English literature
 
-## Part II — Middle English Literature, 1066–1500 🟨 (9/9 chapters drafted; pending peer/copy-edit review)
+## Part II — Middle English Literature, 1066–1500 ✅ (9/9 chapters complete and peer/copy-edit reviewed)
 1. The Norman Conquest and the trilingual literary culture of medieval England
 2. Romance tradition: Arthurian literature, *Sir Gawain and the Green Knight*
 3. Geoffrey Chaucer: life, *The Canterbury Tales*, *Troilus and Criseyde*
