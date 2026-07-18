@@ -13,7 +13,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 
 ---
 
-## Part I — Old English (Anglo-Saxon) Literature, c. 450–1066 🟨
+## Part I — Old English (Anglo-Saxon) Literature, c. 450–1066 🟨 (7/7 chapters drafted; pending peer/copy-edit review)
 1. Historical and cultural background: settlement, conversion, the Viking incursions
 2. Oral-formulaic tradition and the scop
 3. *Beowulf*: transmission, form, and critical reception
