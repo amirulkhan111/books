@@ -1,6 +1,6 @@
 # Part II — Middle English Literature, 1066–1500 — Status
 
-Status: 🟨 in progress (7 of 9 chapters drafted)
+Status: 🟨 in progress (8 of 9 chapters drafted)
 
 - [x] 1. [The Norman Conquest and the trilingual literary culture of medieval England](01-norman-conquest-trilingual-culture.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 2. [Romance tradition: Arthurian literature, *Sir Gawain and the Green Knight*](02-romance-tradition-arthurian-gawain.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
@@ -9,7 +9,7 @@ Status: 🟨 in progress (7 of 9 chapters drafted)
 - [x] 5. [John Gower and Chaucer's contemporaries](05-gower-chaucers-contemporaries.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 6. [Religious and mystical writing: Julian of Norwich, Margery Kempe](06-religious-mystical-writing.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 7. [Medieval drama: mystery, miracle, and morality plays (*Everyman*)](07-medieval-drama.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
-- [ ] 8. Ballads and popular verse
+- [x] 8. [Ballads and popular verse](08-ballads-popular-verse.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [ ] 9. The transition to print: Caxton and the close of the medieval period
 
 See [`STYLE_GUIDE.md`](../../STYLE_GUIDE.md) for the drafting standard chapters must meet before status moves to 🟨 or ✅.
