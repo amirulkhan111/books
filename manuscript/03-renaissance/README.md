@@ -1,9 +1,9 @@
 # Part III — The Renaissance / Early Modern Period, 1500–1660 — Status
 
-Status: 🟨 in progress (1 of 12 chapters drafted)
+Status: 🟨 in progress (2 of 12 chapters drafted)
 
 - [x] 1. [Humanism, the Reformation, and print culture](01-humanism-reformation-print-culture.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
-- [ ] 2. Early Tudor poetry: Wyatt, Surrey, the sonnet's arrival
+- [x] 2. [Early Tudor poetry: Wyatt, Surrey, the sonnet's arrival](02-early-tudor-poetry-wyatt-surrey.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [ ] 3. Elizabethan poetry: Spenser, Sidney, the sonnet sequence
 - [ ] 4. The English Renaissance stage: origins, the theatres, the playing companies
 - [ ] 5. Christopher Marlowe and the development of tragedy
