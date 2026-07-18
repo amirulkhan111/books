@@ -22,7 +22,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 6. Prose: Alfredian translation programme, Bede, the *Anglo-Saxon Chronicle*
 7. The Anglo-Saxon legacy in later English literature
 
-## Part II — Middle English Literature, 1066–1500 ⬜
+## Part II — Middle English Literature, 1066–1500 🟨
 1. The Norman Conquest and the trilingual literary culture of medieval England
 2. Romance tradition: Arthurian literature, *Sir Gawain and the Green Knight*
 3. Geoffrey Chaucer: life, *The Canterbury Tales*, *Troilus and Criseyde*
