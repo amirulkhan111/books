@@ -1,6 +1,6 @@
 # Part III — The Renaissance / Early Modern Period, 1500–1660 — Status
 
-Status: 🟨 in progress (8 of 12 chapters drafted)
+Status: 🟨 in progress (9 of 12 chapters drafted)
 
 - [x] 1. [Humanism, the Reformation, and print culture](01-humanism-reformation-print-culture.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 2. [Early Tudor poetry: Wyatt, Surrey, the sonnet's arrival](02-early-tudor-poetry-wyatt-surrey.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
@@ -10,7 +10,7 @@ Status: 🟨 in progress (8 of 12 chapters drafted)
 - [x] 6. [William Shakespeare: life, canon, comedies, histories, tragedies, romances](06-william-shakespeare.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 7. [Jacobean and Caroline drama: Jonson, Webster, Middleton](07-jacobean-caroline-drama.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 8. [Metaphysical poetry: Donne, Herbert, Marvell, Vaughan](08-metaphysical-poetry.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
-- [ ] 9. Cavalier poets: Jonson's "Tribe," Herrick, Lovelace, Suckling
+- [x] 9. [Cavalier poets: Jonson's "Tribe," Herrick, Lovelace, Suckling](09-cavalier-poets.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [ ] 10. Prose of the period: Bacon, Browne, the King James Bible
 - [ ] 11. Milton I: early poems, prose and the political crisis
 - [ ] 12. Milton II: *Paradise Lost*, *Paradise Regained*, *Samson Agonistes*
