@@ -1,9 +1,17 @@
 # English Literature Through the Ages
 ### *A Historical and Critical Companion*
 
-A definitive, publication-grade history of English literature — written for advanced undergraduate and postgraduate study, aligned with **NEP 2020**, **UGC-NET**, **CUET-PG**, and major Indian and international university syllabi, and benchmarked against (without imitating) the standard histories in the field.
+A definitive, publication-grade history of English literature — written so that a first-year undergraduate with **no prior knowledge of the subject** can read it and genuinely understand it, while still holding the scholarly rigor and syllabus alignment (**NEP 2020**, **UGC-NET**, **CUET-PG**, and major Indian and international university curricula) that a serious course companion needs, and benchmarked against (without imitating) the standard histories in the field.
 
-This repository is the working manuscript, editorial apparatus, and production scaffold for the book. It is a **work in progress**, built chapter by chapter under an explicit verification standard — see [Editorial Standards](#editorial-standards) below.
+This repository is the working manuscript, editorial apparatus, and production scaffold for the book. It is a **work in progress**, built chapter by chapter under an explicit verification standard and a teaching-first writing philosophy — see [Writing Philosophy](#writing-philosophy) and [Editorial Standards](#editorial-standards) below.
+
+---
+
+## Writing philosophy
+
+This book assumes its reader is intelligent, but brand new to English literature — never familiar in advance with literary periods, historical or religious or philosophical background, literary terminology, critical theory, authors, genres, or movements. Every new idea is introduced gently before it's developed, moving from the known to the unknown, the simple to the complex, the concrete to the abstract.
+
+The aim is for the book to read like an outstanding teacher explaining literature in a classroom — never like an encyclopedia, and never like AI-generated prose. A diligent student should understand a chapter completely after one careful reading. Clarity comes before sophistication; simplicity before complexity; teaching before displaying knowledge. Depth of scholarship is never sacrificed — only difficulty of language is. Full detail governing tone, voice, and the teaching method behind every chapter lives in [`STYLE_GUIDE.md`](STYLE_GUIDE.md#2-writing-philosophy-governs-everything-below).
 
 ---
 
@@ -74,10 +82,11 @@ Chapters are added to `manuscript/` incrementally, each researched and fact-chec
 ## Editorial standards
 
 - **No fabricated facts, dates, or quotations.** Every date, quotation, and biographical claim is checked against authoritative sources before it enters the manuscript. Chapters are written and verified one at a time rather than generated in bulk, precisely to protect this standard.
+- **Teaching-first prose.** Every chapter is written for a reader with no prior background, in a natural, human, teacherly voice — see [Writing Philosophy](#writing-philosophy) above. This standard governs all existing chapters and all future ones alike.
 - **Balanced coverage.** Deliberate inclusion of women writers, Irish/Scottish/Welsh literatures, and postcolonial/global Anglophone writing within the main chronological narrative, not as an afterword.
 - **Pedagogical alignment.** Learning outcomes and question banks are mapped to NEP 2020 outcome-based learning and to UGC-NET/CUET-PG English Literature syllabi.
 - **Full detail:** see [`STYLE_GUIDE.md`](STYLE_GUIDE.md).
 
 ## Status
 
-Scaffold and master outline in place. Chapters are drafted and verified incrementally — check `manuscript/` for current progress.
+Scaffold and master outline in place. Chapters are drafted and verified incrementally — check `manuscript/` for current progress. **A project-wide rewrite to the teaching-first writing philosophy (see above) is underway**: new chapters are drafted to this standard from the start, and completed chapters (Parts I–III) are being revised to it one at a time.
