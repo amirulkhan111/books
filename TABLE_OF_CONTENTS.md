@@ -33,7 +33,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 8. Ballads and popular verse
 9. The transition to print: Caxton and the close of the medieval period
 
-## Part III — The Renaissance / Early Modern Period, 1500–1660 🟨 (12/12 chapters drafted; pending peer/copy-edit review)
+## Part III — The Renaissance / Early Modern Period, 1500–1660 ✅ (12/12 chapters complete and peer/copy-edit reviewed)
 1. Humanism, the Reformation, and print culture
 2. Early Tudor poetry: Wyatt, Surrey, the sonnet's arrival
 3. Elizabethan poetry: Spenser, Sidney, the sonnet sequence

@@ -27,7 +27,7 @@ John Milton's career spans, more completely than any other figure treated in thi
 | Date | Event |
 |---|---|
 | 1608 (9 December) | John Milton's birth, London |
-| Milton attends St Paul's School, then Christ's College, Cambridge (BA 1629, MA 1632) |
+| 1620–1632 | Milton attends St Paul's School, then Christ's College, Cambridge (BA 1629, MA 1632) |
 | 1629 | "On the Morning of Christ's Nativity" |
 | 1632–38 | Milton lives at his family's home in Horton, Buckinghamshire, composing much of his early poetry |
 | c. 1631–32 | "L'Allegro" and "Il Penseroso" (companion poems on cheerful and contemplative moods) |
