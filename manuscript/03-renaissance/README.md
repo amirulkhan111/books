@@ -1,6 +1,6 @@
 # Part III — The Renaissance / Early Modern Period, 1500–1660 — Status
 
-Status: 🟨 in progress (11 of 12 chapters drafted)
+Status: 🟨 in progress (12 of 12 chapters drafted — full first-draft pass complete; pending peer/copy-edit review across all chapters)
 
 - [x] 1. [Humanism, the Reformation, and print culture](01-humanism-reformation-print-culture.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 2. [Early Tudor poetry: Wyatt, Surrey, the sonnet's arrival](02-early-tudor-poetry-wyatt-surrey.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
@@ -13,6 +13,6 @@ Status: 🟨 in progress (11 of 12 chapters drafted)
 - [x] 9. [Cavalier poets: Jonson's "Tribe," Herrick, Lovelace, Suckling](09-cavalier-poets.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 10. [Prose of the period: Bacon, Browne, the King James Bible](10-prose-bacon-browne-kjv.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 - [x] 11. [Milton I: early poems, prose and the political crisis](11-milton-I-early-poems-prose-political-crisis.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
-- [ ] 12. Milton II: *Paradise Lost*, *Paradise Regained*, *Samson Agonistes*
+- [x] 12. [Milton II: *Paradise Lost*, *Paradise Regained*, *Samson Agonistes*](12-milton-II-paradise-lost-regained-samson.md) — 🟨 drafted, sourced and cross-checked; pending peer/copy-edit pass
 
 See [`STYLE_GUIDE.md`](../../STYLE_GUIDE.md) for the drafting standard chapters must meet before status moves to 🟨 or ✅.
