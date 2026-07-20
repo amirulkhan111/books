@@ -1,10 +1,10 @@
 # Part VI — The Romantic Period, 1798–1837 — Status
 
-Status: 🟨 in progress (2 of 11 chapters drafted)
+Status: 🟨 in progress (3 of 11 chapters drafted)
 
 - [x] 1. [The French Revolution and the Romantic imagination](01-french-revolution-romantic-imagination.md) — 🟨 drafted
 - [x] 2. [*Lyrical Ballads* (1798) and the Romantic manifesto](02-lyrical-ballads-romantic-manifesto.md) — 🟨 drafted
-- [ ] 3. William Wordsworth: theory and major poems
+- [x] 3. [William Wordsworth: theory and major poems](03-william-wordsworth-theory-major-poems.md) — 🟨 drafted
 - [ ] 4. Samuel Taylor Coleridge: poetry and criticism
 - [ ] 5. Second-generation Romantics: Byron
 - [ ] 6. Percy Bysshe Shelley
