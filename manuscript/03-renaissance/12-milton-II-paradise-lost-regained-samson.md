@@ -48,7 +48,7 @@ You might notice something odd about the dates: this chapter's poems were all pu
 
 ## Author Profiles
 
-**John Milton** (1608–1674) — see Chapter 11 for his biography through 1660. In the years following his Restoration-era imprisonment and release, now blind, politically marginalized, and reduced in circumstance, Milton dictated *Paradise Lost* to a series of amanuenses (including his daughters) over roughly 1658–63, signing a publishing contract with Samuel Simmons on 27 April 1667 that paid him £5 immediately and, ultimately across subsequent editions, a total of only £28 shared between Milton and his widow for what is now regarded as the supreme achievement of English epic poetry. He published *Paradise Regained* and *Samson Agonistes* together in 1671, and oversaw the expanded, twelve-book second edition of *Paradise Lost* in 1674, the year of his death.
+**John Milton** (1608–1674) — you already know his biography up through 1660 from Chapter 11. In the years that followed his Restoration-era imprisonment and release, now blind, politically marginalized, and living in reduced circumstances, Milton dictated *Paradise Lost* to a series of amanuenses, including his own daughters, over roughly 1658 to 1663. He signed a publishing contract with Samuel Simmons on 27 April 1667, which paid him £5 immediately and, across all its subsequent editions, a total of just £28 shared between Milton and his widow — for what we now regard as the supreme achievement of English epic poetry. He published *Paradise Regained* and *Samson Agonistes* together in 1671, and oversaw the expanded, twelve-book second edition of *Paradise Lost* in 1674, the year he died.
 
 ---
 
