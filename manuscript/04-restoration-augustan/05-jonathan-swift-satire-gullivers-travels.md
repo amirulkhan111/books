@@ -26,7 +26,7 @@ Swift was born in Dublin in 1667 to English parents, making him what historians 
 
 Swift's early career took him to England instead. From 1689, with interruptions, he worked as secretary to the diplomat and essayist Sir William Temple at Moor Park in Surrey — a position that gave him access to Temple's library and to the fashionable literary debate of the moment, the "Battle of the Books," a dispute over whether modern learning had surpassed or merely imitated the wisdom of the ancient Greeks and Romans. It was also at Moor Park that Swift met a young girl in Temple's household, Esther Johnson, whom he nicknamed "Stella" and who remained his closest lifelong companion; his letters to her, later collected as the *Journal to Stella* (1710–1713), give an unusually intimate view of his years working in London for the Tory government.
 
-That government work defined Swift's middle career. Queen Anne's reign (1702–1714) was dominated by the War of the Spanish Succession, a costly European conflict, and by fierce rivalry between the Whig and Tory parties over how to end it. From 1710, Swift wrote political journalism for the Tory ministers Robert Harley and Henry St John, editing their party paper *The Examiner* and defending their eventual peace settlement, the Treaty of Utrecht (1713), in the pamphlet *The Conduct of the Allies* (1711). Swift hoped this loyal service would earn him a bishopric in England. Instead, when Queen Anne died in 1714 and the Tory government collapsed, replaced by the incoming Hanoverian king George I and a restored Whig government, Swift's English prospects collapsed with it. He returned to Ireland to take up the position he had already been given as a consolation two years earlier — Dean of St Patrick's Cathedral, Dublin — and it was from that Irish vantage point, not the English career he had wanted, that he wrote nearly everything for which he is remembered today.
+That government work defined Swift's middle career. Queen Anne's reign (1702–1714) was dominated by the War of the Spanish Succession, a costly European conflict, and by fierce rivalry between the Whig and Tory parties over how to end it. From 1710, Swift wrote political journalism for the Tory ministers Robert Harley and Henry St John, editing their party paper *The Examiner* for its first several months before handing that role to Delarivier Manley in 1711 (Chapter 9), and defending the ministry's eventual peace settlement, the Treaty of Utrecht (1713), in the pamphlet *The Conduct of the Allies* (1711). Swift hoped this loyal service would earn him a bishopric in England. Instead, when Queen Anne died in 1714 and the Tory government collapsed, replaced by the incoming Hanoverian king George I and a restored Whig government, Swift's English prospects collapsed with it. He returned to Ireland to take up the position he had already been given as a consolation two years earlier — Dean of St Patrick's Cathedral, Dublin — and it was from that Irish vantage point, not the English career he had wanted, that he wrote nearly everything for which he is remembered today.
 
 ---
 
@@ -40,7 +40,8 @@ That government work defined Swift's middle career. Queen Anne's reign (1702–1
 | 1695 | Swift is ordained a priest in the Church of Ireland |
 | 1704 | *A Tale of a Tub* and *The Battle of the Books* are published anonymously |
 | 1708 | The Bickerstaff Papers hoax against the astrologer John Partridge |
-| 1710–1714 | Swift writes for the Tory ministry, editing *The Examiner*; the *Journal to Stella* letters |
+| 1710–1711 | Swift edits *The Examiner*; the *Journal to Stella* letters begin |
+| 1711–1714 | Swift continues writing Tory political pamphlets after handing *The Examiner*'s editorship to Delarivier Manley (Chapter 9) |
 | 1711 | *The Conduct of the Allies* defends the Tory peace policy |
 | 1713 | The Treaty of Utrecht ends the War of the Spanish Succession; Swift is appointed Dean of St Patrick's Cathedral, Dublin |
 | 1714 | Queen Anne dies; the Tory ministry falls; the Scriblerus Club is founded with Pope, Gay, and Arbuthnot; Swift returns permanently to Ireland |
@@ -155,7 +156,7 @@ Jonathan Swift's career moved between English political ambition and Irish reali
    c) A flying island
    d) A society of talking horses
 
-4. Swift edited which Tory party paper between 1710 and 1714?
+4. Swift edited which Tory party paper beginning in 1710, before handing its editorship to Delarivier Manley in 1711?
    a) *The Spectator*
    b) *The Tatler*
    c) *The Examiner*
