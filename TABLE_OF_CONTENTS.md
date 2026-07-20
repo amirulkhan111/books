@@ -58,7 +58,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 8. Samuel Johnson and the culture of the mid-century: the *Dictionary*, the *Lives of the Poets*
 9. Women's writing of the period: Aphra Behn, Delarivier Manley, Eliza Haywood
 
-## Part V — The Age of Sensibility, 1750–1798 🟨 (7/7 chapters drafted; peer/copy-edit review pending)
+## Part V — The Age of Sensibility, 1750–1798 ✅ (7/7 chapters complete and peer/copy-edit reviewed)
 1. Sensibility, sentiment, and the pre-Romantic turn
 2. The Graveyard Poets: Gray, Young, Blair
 3. James Macpherson's Ossian and literary forgery/authenticity debates
