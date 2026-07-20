@@ -1,8 +1,8 @@
 # Part IV — The Restoration and Augustan Age, 1660–1750 — Status
 
-Status: ⬜ not started
+Status: 🟨 in progress (1 of 9 chapters drafted)
 
-- [ ] 1. Restoration culture: monarchy restored, science, the Royal Society
+- [x] 1. [Restoration culture: monarchy restored, science, the Royal Society](01-restoration-culture-monarchy-science-royal-society.md) — 🟨 drafted
 - [ ] 2. Restoration drama: comedy of manners (Wycherley, Congreve), heroic tragedy (Dryden)
 - [ ] 3. John Dryden: poetry, satire, criticism
 - [ ] 4. The rise of the periodical essay: Addison, Steele
