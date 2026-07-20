@@ -47,7 +47,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 11. Milton I: early poems, prose and the political crisis
 12. Milton II: *Paradise Lost*, *Paradise Regained*, *Samson Agonistes*
 
-## Part IV — The Restoration and Augustan Age, 1660–1750 🟨 (7/9 chapters drafted)
+## Part IV — The Restoration and Augustan Age, 1660–1750 🟨 (8/9 chapters drafted)
 1. Restoration culture: monarchy restored, science, the Royal Society
 2. Restoration drama: comedy of manners (Wycherley, Congreve), heroic tragedy (Dryden)
 3. John Dryden: poetry, satire, criticism
