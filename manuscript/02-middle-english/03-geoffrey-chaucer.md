@@ -52,9 +52,9 @@ Scholars traditionally sort Chaucer's career into three overlapping phases, and 
 
 ## Author Profiles
 
-**Geoffrey Chaucer** (c. 1343–1400) — London-born son of a vintner; page, soldier, diplomat, and senior civil servant across the reigns of Edward III and Richard II, as well as a major poet. Biographical highlights include his 1359–60 capture and ransom during the Hundred Years' War, his marriage to Philippa Roet (connecting him by marriage to the powerful Gaunt/Lancaster affinity through her sister Katherine Swynford), his sustained career in customs administration and royal works, and his 1386 parliamentary service for Kent. Traditionally styled the "father of English poetry" for his role in establishing English as a vehicle for sophisticated literary achievement comparable to contemporary French and Italian models.
+**Geoffrey Chaucer** (c. 1343–1400) — you already have the shape of his career from the section above: page, soldier, diplomat, senior civil servant across the reigns of Edward III and Richard II, and, above all, a major poet. What that biography adds up to is a writer traditionally styled the "father of English poetry," for establishing English as a language capable of literary achievement on the same level as contemporary French and Italian models.
 
-**Giovanni Boccaccio** (1313–1375) — Italian author whose works, though never directly credited by Chaucer himself, provided the principal narrative sources for two of Chaucer's major works: *Troilus and Criseyde* is based on Boccaccio's *Il Filostrato* (1335–40), and the Knight's Tale (in *The Canterbury Tales*) draws on Boccaccio's *Teseida*. Of the three great Italian influences on Chaucer (Dante, Petrarch, Boccaccio), Boccaccio is generally regarded as the one Chaucer drew on most extensively.
+**Giovanni Boccaccio** (1313–1375) never gets a direct credit from Chaucer himself, but he was, in practice, Chaucer's most important source. *Troilus and Criseyde* is based on Boccaccio's *Il Filostrato* (1335–40), and the Knight's Tale in *The Canterbury Tales* draws on his *Teseida*. Of the three great Italian influences on Chaucer — Dante, Petrarch, and Boccaccio — Boccaccio is generally regarded as the one Chaucer leaned on most.
 
 ---
 

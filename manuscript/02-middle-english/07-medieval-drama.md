@@ -51,11 +51,11 @@ Medieval English drama sorts into three related genres, and it's worth keeping t
 
 Medieval drama is overwhelmingly anonymous, produced by communities rather than individual authors chasing personal reputation — a real contrast with, say, Cynewulf's runic signatures back in Part I, or Chaucer's carefully cultivated poetic identity earlier in this Part. So this chapter's profiles are institutional and traditional attributions, not named biographies.
 
-**The "Wakefield Master"** — Conventional scholarly name for an anonymous, unusually skilled playwright whose distinctive contributions to the Towneley (Wakefield) cycle are identified through a characteristic nine-line stanza (rhyming aabcccb, with internal rhyme in the first four lines); his plays are generally held to include *Noah*, the *First Shepherds' Play*, the *Second Shepherds' Play*, *Herod the Great*, and *The Buffeting of Christ*, and are widely regarded as the artistic high point of English cycle drama for their combination of theological seriousness with sophisticated comic characterization.
+**The "Wakefield Master"** is a name scholars invented, not a name he used himself, for an anonymous but unusually skilled playwright. His distinctive contributions to the Towneley (Wakefield) cycle are identified by a telltale nine-line stanza, rhyming aabcccb with internal rhyme in its first four lines. His plays are generally held to include *Noah*, the *First Shepherds' Play*, the *Second Shepherds' Play*, *Herod the Great*, and *The Buffeting of Christ* — and most scholars regard them as the artistic high point of English cycle drama, for exactly the combination you saw above: theological seriousness alongside genuinely sophisticated comic characterization.
 
-**Peter van Diest** — Traditionally credited (though not without scholarly uncertainty) as the author of the Dutch morality play *Elckerlijc* (c. 1470, printed 1495), generally regarded as the probable source, direct or indirect, for the English *Everyman*.
+**Peter van Diest** is traditionally credited, though not without some scholarly uncertainty, as the author of the Dutch morality play *Elckerlijc*, composed around 1470 and printed in 1495 — generally regarded as the probable source, whether direct or indirect, for the English *Everyman*.
 
-**The *Everyman*-author** — Anonymous English adapter/translator, working in the late fifteenth or early sixteenth century, responsible for *The Somonyng of Everyman* ("The Summoning of Everyman"), commonly known simply as *Everyman*.
+**The *Everyman*-author** is anonymous. This English adapter or translator, working in the late fifteenth or early sixteenth century, is responsible for *The Somonyng of Everyman* ("The Summoning of Everyman"), the play we now simply call *Everyman*.
 
 ---
 
