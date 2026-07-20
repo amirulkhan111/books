@@ -72,17 +72,17 @@ Here's a fact that should give you pause: every single poem discussed in this bo
 
 Here's something that surprises most students meeting Old English poetry for the first time: almost none of it has a named author. Oral composition and anonymous copying by monastic scribes were simply the norm, and the one major exception, Cædmon, gets his own treatment in Chapter 5. So instead of poets, this chapter profiles two things: the fictional scop-narrators the surviving poems invent for themselves, and the modern scholars whose theories shape how we now read them.
 
-**The Widsith-poet** — Unknown; composed (or, more likely, progressively compiled and reworked) a poem cataloguing, in the first person, the travels of an idealized scop named Widsith ("far-traveller") among the courts of Germanic legend and history. The poem's internal chronology ranges across the fourth to sixth centuries, but its date of composition in anything like its surviving form is uncertain, with proposals ranging from the seventh century onward; it survives only in the tenth-century Exeter Book copy.
+**The Widsith-poet** is unknown to us by name. What survives is a poem — probably assembled and reworked over time rather than composed all at once — cataloguing, in the first person, the travels of an idealized scop named Widsith ("far-traveller") among the courts of Germanic legend and history. The events the poem describes span the fourth to sixth centuries, but that tells us nothing about when it was actually written down; estimates range from the seventh century onward, and all we can say for certain is that it survives in the tenth-century Exeter Book copy.
 
-**The Deor-poet** — Unknown; composed *Deor*, a shorter lament spoken by a court poet named Deor who has lost his position to a rival scop, Heorrenda. The poem consoles itself through a refrain ("that passed away, so may this") recalling a sequence of misfortunes from Germanic legend, implicitly comparing the speaker's own loss to greater historical sufferings.
+**The Deor-poet** is likewise unknown. This poet composed *Deor*, a shorter lament spoken by a court poet named Deor who has lost his position to a rival scop, Heorrenda. The poem consoles itself with a refrain — "that passed away, so may this" — recalling a string of misfortunes from Germanic legend, implicitly measuring the speaker's own loss against far greater historical sufferings.
 
-**Milman Parry** (1902–1935) — American classicist whose analysis of Homeric formulaic epithets and fieldwork on South Slavic oral epic established the foundations of oral-formulaic theory.
+**Milman Parry** (1902–1935) was the American classicist whose work started all of this. His analysis of Homeric formulaic epithets, followed by his fieldwork among South Slavic oral epic singers, laid the foundations of oral-formulaic theory.
 
-**Albert Lord** (1912–1991) — Parry's student and collaborator; formalized oral-formulaic theory in *The Singer of Tales* (1960), introducing the concept of "composition-in-performance."
+**Albert Lord** (1912–1991) was Parry's student and close collaborator. He formalized their shared theory in *The Singer of Tales* (1960), introducing the influential idea of "composition-in-performance" — the notion that oral poets compose as they perform, not before.
 
-**Francis P. Magoun** (1895–1979) — Harvard scholar who first applied Parry–Lord theory systematically to Old English poetry (1953), arguing for the oral composition of *Beowulf* on the basis of formulaic density.
+**Francis P. Magoun** (1895–1979) was the Harvard scholar who first applied Parry and Lord's theory systematically to Old English poetry, arguing in 1953 that the formulaic density of *Beowulf* proved it had been orally composed.
 
-**Larry D. Benson** (1929–2016) — Scholar who challenged Magoun's conclusions in his 1966 article, proposing that much surviving Old English "formulaic" verse is better understood as **written-formulaic** — literate poetry composed in a traditional style rather than proof of genuine oral composition.
+**Larry D. Benson** (1929–2016) is the scholar who pushed back against Magoun. In his 1966 article, he argued that much surviving Old English "formulaic" verse is better understood as **written-formulaic**: literate poetry composed in a traditional style, not proof of genuine oral composition.
 
 ---
 

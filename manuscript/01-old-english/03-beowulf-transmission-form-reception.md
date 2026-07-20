@@ -53,17 +53,17 @@ If Chapter 2 taught you the toolkit — alliterative verse, formulas, the comita
 
 We don't know who wrote *Beowulf*. Not the name, not the region, not even for certain whether it was one person or several. What follows, then, isn't really a profile of an author — it's a profile of the poem's afterlife: the people who owned the manuscript, rescued it from fire, transcribed it, and eventually made the wider world care about it.
 
-**The Beowulf-poet** — Entirely unknown; unnamed in the manuscript and unidentifiable from external evidence. Scholarly convention refers to "the poet" or "the *Beowulf*-poet" as a single composing intelligence, though even this assumption cannot be verified.
+**The Beowulf-poet** is a complete blank. No name survives in the manuscript, and nothing external identifies a candidate. When scholars say "the poet," they're really using a convenient shorthand for a single composing intelligence — a useful fiction, since we can't even be certain one person is responsible for the whole poem.
 
-**Laurence Nowell** (c. 1530–c. 1570) — Elizabethan antiquarian in whose possession the manuscript is first recorded (1563); the codex is now named for him.
+**Laurence Nowell** (c. 1530–c. 1570) is the Elizabethan antiquarian in whose possession the manuscript is first recorded, in 1563. That's why the manuscript still carries his name today: the Nowell Codex.
 
-**Sir Robert Bruce Cotton** (1571–1631) — Collector whose library, including the *Beowulf* manuscript, later passed to the British nation and gives the manuscript its shelfmark, Cotton Vitellius A.xv.
+**Sir Robert Bruce Cotton** (1571–1631) was a collector whose enormous library, including the *Beowulf* manuscript, eventually passed to the British nation. His shelving system is the reason the manuscript's official reference number is Cotton Vitellius A.xv.
 
-**Grímur Jónsson Thorkelin** (1752–1829) — Icelandic-Danish scholar and Keeper of the Danish National Archives who commissioned and made transcripts of the manuscript in 1786–87 and published the first printed edition (*editio princeps*) in 1815; his transcripts preserve readings from the manuscript's edges since lost to fire damage.
+**Grímur Jónsson Thorkelin** (1752–1829) was an Icelandic-Danish scholar and Keeper of the Danish National Archives. He commissioned and made transcripts of the manuscript in 1786–87 and published the first printed edition in 1815 — and because he worked before the 1731 fire had done its worst damage, his transcripts preserve readings from the manuscript's edges that are now lost.
 
-**J. R. R. Tolkien** (1892–1973) — Oxford philologist and author whose 1936 British Academy lecture, "Beowulf: The Monsters and the Critics," argued for reading the poem's monsters (Grendel, Grendel's mother, the dragon) as central to its meaning rather than as embarrassing folkloric material to be mined for historical data beneath. Widely credited with founding the modern era of *Beowulf* literary criticism.
+**J. R. R. Tolkien** (1892–1973), the Oxford philologist and novelist, gave a 1936 British Academy lecture, "Beowulf: The Monsters and the Critics," that argued the poem's monsters — Grendel, Grendel's mother, the dragon — are central to its meaning, not embarrassing folkloric clutter to be mined for historical facts. Most scholars credit this lecture with founding the modern era of *Beowulf* literary criticism.
 
-**Seamus Heaney** (1939–2013) — Irish Nobel laureate whose 1999 verse translation of *Beowulf* became an unusual bestseller among translations of ancient poetry, winning the Whitbread Book of the Year Award and substantially widening the poem's general readership.
+**Seamus Heaney** (1939–2013), the Irish Nobel laureate, published a verse translation of *Beowulf* in 1999 that became an unlikely bestseller for a translation of ancient poetry, winning the Whitbread Book of the Year Award and bringing the poem to a far wider general readership than it had reached before.
 
 ---
 
