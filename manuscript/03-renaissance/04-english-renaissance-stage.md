@@ -51,15 +51,15 @@ You'll often see the term **University Wits** applied to this generation of play
 
 ## Author Profiles
 
-**James Burbage** (c. 1531–1597) — Actor and entrepreneur who, in 1576, built The Theatre in Shoreditch — sited deliberately outside the City of London's jurisdiction, where hostile civic authorities held no direct regulatory power — the first purpose-built commercial playhouse in London and a direct model for the amphitheatre-style playhouses that followed.
+**James Burbage** (c. 1531–1597) was an actor and entrepreneur who, in 1576, built The Theatre in Shoreditch, deliberately sited outside the City of London's jurisdiction, exactly where hostile civic authorities had no direct power to interfere. It was London's first purpose-built commercial playhouse, and it became the direct model for every amphitheatre-style playhouse that followed.
 
-**The University Wits** — A retrospectively named group including **Christopher Marlowe** (treated fully in Chapter 5), **Robert Greene**, **Thomas Nashe**, **John Lyly**, **George Peele**, and **Thomas Lodge**, alongside the non-university **Thomas Kyd**; collectively responsible for professionalizing English commercial drama in the 1580s through classically informed plotting, rhetoric, and (in Marlowe's case above all) verse form.
+**The University Wits** is a name later historians gave, not a name these writers used for themselves. It groups together Christopher Marlowe, whom you'll meet fully in Chapter 5, along with Robert Greene, Thomas Nashe, John Lyly, George Peele, and Thomas Lodge, plus the non-university-trained Thomas Kyd, who's usually included with them anyway. Together, they professionalized English commercial drama in the 1580s through classically informed plotting and rhetoric — and, above all in Marlowe's case, verse form.
 
-**Thomas Kyd** (1558–1594) — Author of *The Spanish Tragedy* (composed c. 1587, first printed 1592), whose enormous popular success established the revenge tragedy as a dominant Elizabethan and Jacobean dramatic genre, introducing conventions (a ghost demanding vengeance, a delaying revenger-protagonist, a Machiavellian villain, a self-reflexive play-within-the-play) that would echo through the period's drama for decades.
+**Thomas Kyd** (1558–1594) wrote *The Spanish Tragedy*, composed around 1587 and first printed in 1592. Its enormous popular success established revenge tragedy as a dominant genre across the Elizabethan and Jacobean periods, and it introduced conventions — a ghost demanding vengeance, a hero who delays his revenge, a Machiavellian villain, a self-aware play-within-the-play — that would echo through English drama for decades afterward.
 
-**Philip Henslowe** (c. 1550–1616) — Theatrical entrepreneur who built the Rose theatre (1587) on the Bankside in Southwark and, through his detailed surviving business diary (*Henslowe's Diary*), provides historians with an invaluable record of Elizabethan theatrical finance, repertory, and practice.
+**Philip Henslowe** (c. 1550–1616) was a theatrical entrepreneur who built the Rose theatre in 1587, on the Bankside in Southwark. His detailed business diary survives today, and it gives historians an invaluable record of how Elizabethan theatre actually worked financially, day to day.
 
-**Edmund Tilney** — Master of the Revels under Elizabeth I for much of the period, responsible for licensing playing companies, playhouses, and individual plays for performance, exercising both quality control and political/religious censorship over the era's drama.
+**Edmund Tilney** served as Master of the Revels under Elizabeth I for much of this period, responsible for licensing playing companies, playhouses, and individual plays before they could be performed — a role that combined genuine quality control with political and religious censorship of the era's drama.
 
 ---
 
