@@ -1,8 +1,8 @@
 # Part V — The Age of Sensibility, 1750–1798 — Status
 
-Status: ⬜ not started
+Status: 🟨 in progress (1 of 7 chapters drafted)
 
-- [ ] 1. Sensibility, sentiment, and the pre-Romantic turn
+- [x] 1. [Sensibility, sentiment, and the pre-Romantic turn](01-sensibility-sentiment-pre-romantic-turn.md) — 🟨 drafted
 - [ ] 2. The Graveyard Poets: Gray, Young, Blair
 - [ ] 3. James Macpherson's Ossian and literary forgery/authenticity debates
 - [ ] 4. Thomas Chatterton and the Rowley poems
