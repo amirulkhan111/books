@@ -67,7 +67,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 6. William Blake's early work and the *Songs of Innocence and of Experience*
 7. Robert Burns and the vernacular Scottish tradition
 
-## Part VI — The Romantic Period, 1798–1837 🟨 (10/11 chapters drafted)
+## Part VI — The Romantic Period, 1798–1837 🟨 (11/11 chapters drafted; peer/copy-edit review pending)
 1. The French Revolution and the Romantic imagination
 2. *Lyrical Ballads* (1798) and the Romantic manifesto
 3. William Wordsworth: theory and major poems
