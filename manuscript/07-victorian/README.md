@@ -1,8 +1,8 @@
 # Part VII — The Victorian Age, 1837–1901 — Status
 
-Status: ⬜ not started
+Status: 🟨 in progress (1 of 13 chapters drafted)
 
-- [ ] 1. Industrialization, empire, and the "Condition of England" question
+- [x] 1. [Industrialization, empire, and the "Condition of England" question](01-industrialization-empire-condition-of-england.md) — 🟨 drafted
 - [ ] 2. Early Victorian poetry: Tennyson
 - [ ] 3. Robert and Elizabeth Barrett Browning
 - [ ] 4. The Pre-Raphaelites: D. G. Rossetti, Christina Rossetti, William Morris
