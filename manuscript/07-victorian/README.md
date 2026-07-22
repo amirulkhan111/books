@@ -1,6 +1,6 @@
 # Part VII — The Victorian Age, 1837–1901 — Status
 
-Status: 🟨 in progress (10 of 13 chapters drafted)
+Status: 🟨 in progress (11 of 13 chapters drafted)
 
 - [x] 1. [Industrialization, empire, and the "Condition of England" question](01-industrialization-empire-condition-of-england.md) — 🟨 drafted
 - [x] 2. [Early Victorian poetry: Tennyson](02-early-victorian-poetry-tennyson.md) — 🟨 drafted
@@ -12,7 +12,7 @@ Status: 🟨 in progress (10 of 13 chapters drafted)
 - [x] 8. [The Brontës](08-the-brontes.md) — 🟨 drafted
 - [x] 9. [George Eliot](09-george-eliot.md) — 🟨 drafted
 - [x] 10. [Thomas Hardy: novels and poetry](10-thomas-hardy-novels-poetry.md) — 🟨 drafted
-- [ ] 11. Late Victorian fiction: Stevenson, Wilde, Hardy's contemporaries; sensation and detective fiction (Collins, Conan Doyle)
+- [x] 11. [Late Victorian fiction: Stevenson, Wilde, Hardy's contemporaries; sensation and detective fiction (Collins, Conan Doyle)](11-late-victorian-fiction-stevenson-wilde-sensation-detective.md) — 🟨 drafted
 - [ ] 12. Victorian non-fiction prose: Carlyle, Ruskin, Newman, Mill
 - [ ] 13. Victorian drama and the theatre before Wilde/Shaw
 
