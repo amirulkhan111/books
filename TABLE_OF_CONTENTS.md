@@ -80,7 +80,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 10. Jane Austen and the novel of manners
 11. Women Romantic poets: Charlotte Smith, Felicia Hemans, Letitia Elizabeth Landon
 
-## Part VII — The Victorian Age, 1837–1901 🟨 (all 13 chapters drafted; peer/copy-edit review pass pending)
+## Part VII — The Victorian Age, 1837–1901 ✅ (13/13 chapters complete and peer/copy-edit reviewed)
 1. Industrialization, empire, and the "Condition of England" question
 2. Early Victorian poetry: Tennyson
 3. Robert and Elizabeth Barrett Browning
