@@ -1,6 +1,6 @@
 # Part VII — The Victorian Age, 1837–1901 — Status
 
-Status: 🟨 in progress (7 of 13 chapters drafted)
+Status: 🟨 in progress (8 of 13 chapters drafted)
 
 - [x] 1. [Industrialization, empire, and the "Condition of England" question](01-industrialization-empire-condition-of-england.md) — 🟨 drafted
 - [x] 2. [Early Victorian poetry: Tennyson](02-early-victorian-poetry-tennyson.md) — 🟨 drafted
@@ -9,7 +9,7 @@ Status: 🟨 in progress (7 of 13 chapters drafted)
 - [x] 5. [Matthew Arnold: poetry and criticism](05-matthew-arnold-poetry-criticism.md) — 🟨 drafted
 - [x] 6. [Gerard Manley Hopkins](06-gerard-manley-hopkins.md) — 🟨 drafted
 - [x] 7. [The social-problem novel: Dickens, Gaskell](07-social-problem-novel-dickens-gaskell.md) — 🟨 drafted
-- [ ] 8. The Brontës
+- [x] 8. [The Brontës](08-the-brontes.md) — 🟨 drafted
 - [ ] 9. George Eliot
 - [ ] 10. Thomas Hardy: novels and poetry
 - [ ] 11. Late Victorian fiction: Stevenson, Wilde, Hardy's contemporaries; sensation and detective fiction (Collins, Conan Doyle)
