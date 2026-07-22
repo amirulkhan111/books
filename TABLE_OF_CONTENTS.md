@@ -95,7 +95,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 12. Victorian non-fiction prose: Carlyle, Ruskin, Newman, Mill
 13. Victorian drama and the theatre before Wilde/Shaw
 
-## Part VIII — The Modern Period, 1901–1945 🟨 (all 8 chapters drafted; peer/copy-edit review pass pending)
+## Part VIII — The Modern Period, 1901–1945 ✅ (8/8 chapters complete and peer/copy-edit reviewed)
 1. Modernity, war, and the break with Victorian form
 2. Modernist poetry: Yeats, Eliot, Pound and Anglo-American Modernism
 3. Georgian and First World War poets: Brooke, Owen, Sassoon, Rosenberg
