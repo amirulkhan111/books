@@ -1,8 +1,8 @@
 # Part X — Postcolonial and Global Anglophone Literatures — Status
 
-Status: ⬜ not started
+Status: 🟨 in progress (1 of 9 chapters drafted)
 
-- [ ] 1. Theorizing postcolonial literature: key concepts and debates
+- [x] 1. [Theorizing postcolonial literature: key concepts and debates](01-theorizing-postcolonial-literature-key-concepts-debates.md) — 🟨 drafted
 - [ ] 2. Irish literature: Swift to Joyce to Heaney — a distinct national tradition
 - [ ] 3. Scottish literature: from the Makars to contemporary Scots writing
 - [ ] 4. Welsh writing in English: Dylan Thomas and successors
