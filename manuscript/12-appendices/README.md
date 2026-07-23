@@ -1,9 +1,9 @@
 # Part XII — Appendices — Status
 
-Status: 🟨 in progress (1 of 5 appendices drafted)
+Status: 🟨 in progress (2 of 5 appendices drafted)
 
 - [x] A. [Consolidated glossary of literary terms](A-consolidated-glossary.md) — 🟨 drafted
-- [ ] B. Master chronological timeline (all periods)
+- [x] B. [Master chronological timeline (all periods)](B-master-timeline.md) — 🟨 drafted (1,323 entries, full unabridged merge)
 - [ ] C. UGC-NET / CUET-PG syllabus concordance table
 - [ ] D. Comprehensive bibliography and further reading
 - [ ] E. Answer keys to all chapter MCQs
