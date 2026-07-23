@@ -1,0 +1,695 @@
+# Appendix D: Comprehensive Bibliography and Further Reading
+
+*Part XII: Appendices*
+
+---
+
+This appendix merges the Suggested Readings from every chapter across Parts I through XI into two alphabetically sorted lists: primary texts (the literary works themselves, in the editions each chapter recommended) and secondary criticism (scholarly and critical works). Citations are given exactly as each chapter's own Suggested Readings section supplied them; where two chapters recommended the identical edition of the same work, that entry appears once here. Where a single author's works appear more than once, entries are ordered by title. For the specific chapter that recommended any given title, and the teaching context behind that recommendation, search this book's chapters directly — this appendix is deliberately a flat, searchable reference list rather than a chapter-by-chapter index (see Appendices A and B for that kind of cross-referenced format).
+
+**Primary sources: 314 unique entries. Secondary criticism: 354 unique entries. Total: 668.**
+
+---
+
+## Primary Sources
+
+- Achebe, Chinua. *Things Fall Apart* (London: Heinemann, 1958).
+- Addison, Joseph, and Richard Steele. *The Spectator*, ed. Donald F. Bond, 5 vols (Oxford: Clarendon Press, 1965).
+- Adichie, Chimamanda Ngozi. *Half of a Yellow Sun* (London: Fourth Estate, 2006).
+- *Alfred the Great: Asser's Life of King Alfred and Other Contemporary Sources*, ed. and trans. Simon Keynes and Michael Lapidge (London: Penguin, 1983).
+- Ali, Monica. *Brick Lane* (London: Doubleday, 2003).
+- Amis, Kingsley. *Lucky Jim* (London: Victor Gollancz, 1954).
+- Aristotle. *Poetics*, trans. Malcolm Heath (London: Penguin Classics, 1996).
+- Arnold, Matthew. *The Major Works*, ed. Miriam Allott and Robert H. Super, rev. ed. (Oxford: Oxford World's Classics, 2009).
+- Arnold, Matthew. *Culture and Anarchy*, ed. Jane Garnett, rev. ed. (Oxford: Oxford World's Classics, 2006).
+- Arnold, Matthew. "The Function of Criticism at the Present Time" and "The Study of Poetry," in *The Major Works*, ed. Miriam Allott and Robert H. Super, rev. ed. (Oxford: Oxford World's Classics, 2009).
+- Atwood, Margaret. *The Handmaid's Tale* (London: Vintage Classics, 1996).
+- Auden, W. H. *The Age of Anxiety: A Baroque Eclogue*. New York: Random House, 1947.
+- Auden, W. H. *Selected Poems*, ed. Edward Mendelson, rev. ed. (New York: Vintage, 2007).
+- Austen, Jane. *Pride and Prejudice*, ed. Vivien Jones (London: Penguin Classics, 2003).
+- Austen, Jane. *Emma*, ed. Fiona Stafford (London: Penguin Classics, 2003).
+- Austen, Jane. *Mansfield Park*, ed. Kathryn Sutherland (London: Penguin Classics, 2003).
+- Bacon, Francis. *The Major Works*, ed. Brian Vickers (Oxford: Oxford World's Classics, 2002) — includes the *Essays*, *The Advancement of Learning*, and *New Atlantis*.
+- Barbour, John. *The Bruce*, ed. and trans. A. A. M. Duncan (Edinburgh: Canongate Classics, 1997).
+- Barrett Browning, Elizabeth. *Selected Poems*, ed. Marjorie Stone (Peterborough, ON: Broadview Press, 2009).
+- Barrett Browning, Elizabeth. *Aurora Leigh*, ed. Margaret Reynolds (New York: Norton Critical Edition, 1996).
+- Barthes, Roland. *Mythologies*, trans. Annette Lavers (New York: Hill and Wang, 1972).
+- Barthes, Roland. "The Death of the Author," in *Image, Music, Text*, trans. Stephen Heath (New York: Hill and Wang, 1977).
+- Beckett, Samuel. *Murphy* (London: Faber and Faber, 2009).
+- Beckett, Samuel. *Waiting for Godot* (London: Faber and Faber, 2006).
+- Bede, *The Ecclesiastical History of the English People*, ed. Judith McClure and Roger Collins, Oxford World's Classics (Oxford: Oxford University Press, 1994; rev. ed. 2008).
+- Bede, *The Ecclesiastical History of the English People*, ed. Judith McClure and Roger Collins (Oxford: Oxford World's Classics, 1994; rev. 2008) — Book IV, ch. 24, for the Cædmon narrative.
+- Behn, Aphra. *The Rover and Other Plays*, ed. Jane Spencer (Oxford: Oxford World's Classics, 1995).
+- Behn, Aphra. *Oroonoko and Other Writings*, ed. Paul Salzman (Oxford: Oxford World's Classics, 2009).
+- Behn, Aphra. *Love-Letters Between a Nobleman and His Sister*, ed. Janet Todd (London: Penguin Classics, 1996).
+- *Beowulf: A New Verse Translation*, trans. Seamus Heaney (New York: Farrar, Straus and Giroux, 1999).
+- Beveridge, William. *Social Insurance and Allied Services* (London: HMSO, 1942).
+- Blake, William. *The Complete Poetry and Prose of William Blake*, ed. David V. Erdman, rev. ed. (New York: Anchor Books, 1988).
+- Blake, William. *Selected Poems*, ed. G. E. Bentley Jr. (London: Penguin Classics, 2005).
+- Bloom, Harold. *The Anxiety of Influence: A Theory of Poetry* (New York: Oxford University Press, 1973).
+- Boswell, James. *Life of Johnson*, ed. R. W. Chapman, rev. J. D. Fleeman (Oxford: Oxford World's Classics, 2008).
+- Boucicault, Dion. *The Colleen Bawn*, in *Selected Plays*, ed. Andrew Parkin (Gerrards Cross: Colin Smythe, 1987).
+- Brontë, Charlotte. *Jane Eyre*, ed. Michael Mason (London: Penguin Classics, 2003).
+- Brontë, Emily. *Wuthering Heights*, ed. Pauline Nestor (London: Penguin Classics, 2003).
+- Brontë, Anne. *The Tenant of Wildfell Hall*, ed. Stevie Davies (London: Penguin Classics, 1996).
+- Brooke, Rupert. *The Poetical Works of Rupert Brooke*, ed. Geoffrey Keynes (London: Faber and Faber, 1946).
+- Browne, Thomas. *Religio Medici and Urne-Buriall*, ed. Stephen Greenblatt and Ramie Targoff (New York: New York Review Books, 2012).
+- Browning, Robert. *Selected Poems*, ed. Daniel Karlin (London: Penguin Classics, 2000).
+- Burke, Edmund. *A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful*, ed. Adam Phillips (Oxford: Oxford World's Classics, 1990).
+- Burke, Edmund. *Reflections on the Revolution in France*, ed. L. G. Mitchell (Oxford: Oxford World's Classics, 1993).
+- Burns, Robert. *Selected Poems*, ed. Carol McGuirk (London: Penguin Classics, 1993).
+- Burns, Robert. *The Complete Poems and Songs*, ed. James Kinsley (Oxford: Clarendon Press, 1968).
+- Byron, George Gordon, Lord. *The Major Works*, ed. Jerome J. McGann (Oxford: Oxford World's Classics, 2008).
+- Byron, Lord. *Don Juan*, ed. T. G. Steffan, E. Steffan, and W. W. Pratt, rev. ed. (London: Penguin Classics, 2004).
+- Carlyle, Thomas. *Selected Writings*, ed. Alan Shelston (London: Penguin Classics, 1971).
+- Caxton, William. *Caxton's Own Prose*, ed. N. F. Blake (London: André Deutsch, 1973) — collects Caxton's prologues and epilogues, including the *Eneydos* prologue.
+- Caxton, William, trans. *The Recuyell of the Historyes of Troye*, ed. H. Oskar Sommer, 2 vols. (London: David Nutt, 1894).
+- Chatterton, Thomas. *The Complete Works of Thomas Chatterton: A Bicentenary Edition*, ed. Donald S. Taylor with Benjamin B. Hoover, 2 vols (Oxford: Clarendon Press, 1971).
+- Chatterton, Thomas. *Selected Poems*, ed. Grevel Lindop (Manchester: Fyfield Books/Carcanet, 1993).
+- Chaucer, Geoffrey. *The Riverside Chaucer*, gen. ed. Larry D. Benson, 3rd ed. (Oxford: Oxford University Press, 1987) — the standard scholarly edition.
+- Chaucer, Geoffrey. *The Canterbury Tales*, trans. Nevill Coghill (London: Penguin Classics, 1951; rev. ed.).
+- Chaucer, Geoffrey. *Troilus and Criseyde*, ed. Barry Windeatt (London: Penguin Classics, 2003).
+- Child, Francis James, ed. *The English and Scottish Popular Ballads*, 5 vols. (Boston: Houghton Mifflin, 1882–98).
+- Churchill, Caryl. *Top Girls* (London: Methuen, 1982).
+- Cixous, Hélène. "The Laugh of the Medusa," trans. Keith Cohen and Paula Cohen, *Signs* 1, no. 4 (1976).
+- Coleridge, Samuel Taylor. *The Complete Poems*, ed. William Keach (London: Penguin Classics, 1997).
+- Coleridge, Samuel Taylor. *Biographia Literaria*, ed. James Engell and W. Jackson Bate (Princeton: Princeton University Press, 1983).
+- Collins, Wilkie. *The Moonstone*, ed. John Sutherland (London: Penguin Classics, 1998).
+- Conan Doyle, Arthur. *The Adventures of Sherlock Holmes*, ed. Richard Lancelyn Green (Oxford: Oxford World's Classics, 1998).
+- Congreve, William. *The Way of the World*, ed. Kathleen Lynch (Lincoln: University of Nebraska Press, Regents Restoration Drama Series, 1965; various modern editions).
+- Conquest, Robert, ed. *New Lines* (London: Macmillan, 1956).
+- Conrad, Joseph. *Heart of Darkness*, ed. Owen Knowles (London: Penguin Classics, 2007).
+- Darwin, Charles. *On the Origin of Species*, ed. Gillian Beer, rev. ed. (Oxford: Oxford World's Classics, 2008).
+- Day-Lewis, Cecil. *The Complete Poems* (Stanford: Stanford University Press, 1992).
+- De Quincey, Thomas. *Confessions of an English Opium-Eater and Other Writings*, ed. Grevel Lindop, rev. ed. (Oxford: Oxford World's Classics, 2013).
+- Defoe, Daniel. *Robinson Crusoe*, ed. Thomas Keymer (Oxford: Oxford World's Classics, 2007).
+- Defoe, Daniel. *Moll Flanders*, ed. Albert J. Rivero (New York: Norton Critical Editions, 2004).
+- Derrida, Jacques. "Structure, Sign, and Play in the Discourse of the Human Sciences," in *Writing and Difference*, trans. Alan Bass (Chicago: University of Chicago Press, 1978).
+- Derrida, Jacques. *Of Grammatology*, trans. Gayatri Chakravorty Spivak (Baltimore: Johns Hopkins University Press, 1976).
+- Dickens, Charles. *Oliver Twist*, ed. Philip Horne (London: Penguin Classics, 2003).
+- Dickens, Charles. *Hard Times*, ed. Kate Flint (London: Penguin Classics, 2003).
+- Donne, John. *The Complete English Poems*, ed. A. J. Smith (London: Penguin Classics, 1971; rev. ed.).
+- Dryden, John. *The Conquest of Granada*, in *The Works of John Dryden*, vol. 11, ed. John Loftis et al. (Berkeley: University of California Press, 1978).
+- Dryden, John. *The Poems of John Dryden*, ed. Paul Hammond and David Hopkins, 5 vols (Harlow: Longman, 1995–2005).
+- Dryden, John. *Of Dramatick Poesie and Other Critical Essays*, ed. George Watson, 2 vols (London: Dent, Everyman's Library, 1962).
+- Dryden, John. *Absalom and Achitophel*, ed. James Kinsley, in *The Poems and Fables of John Dryden* (Oxford: Oxford University Press, 1962).
+- Dryden, John. *Of Dramatick Poesie*, in *Of Dramatick Poesie and Other Critical Essays*, ed. George Watson (London: Dent, Everyman's Library, 1962).
+- Duffy, Carol Ann. *The World's Wife* (London: Picador, 1999).
+- Dunbar, William. *Selected Poems*, ed. Priscilla Bawcutt (London: Longman, 1996).
+- Eliot, George. *Middlemarch*, ed. Rosemary Ashton (London: Penguin Classics, 1994).
+- Eliot, George. *The Mill on the Floss*, ed. A. S. Byatt (London: Penguin Classics, 2003).
+- Eliot, George. *Adam Bede*, ed. Stephen Gill (London: Penguin Classics, 1985).
+- Eliot, T. S. *The Waste Land and Other Poems* (London: Faber and Faber, 1999).
+- Eliot, T. S. *Selected Prose of T. S. Eliot*, ed. Frank Kermode (London: Faber and Faber, 1975).
+- Eliot, T. S. "Hamlet and His Problems" and "Tradition and the Individual Talent," in *Selected Essays* (London: Faber and Faber, 1932).
+- Erasmus, Desiderius. *Praise of Folly*, trans. Betty Radice (London: Penguin Classics, 1971; rev. ed.).
+- Etherege, George. *The Man of Mode*, ed. John Barnard (London: Ernest Benn, 1979; various modern editions).
+- Evaristo, Bernardine. *Girl, Woman, Other* (London: Hamish Hamilton, 2019).
+- Evelyn, John. *The Diary of John Evelyn*, ed. E. S. de Beer (Oxford: Clarendon Press, 1955).
+- *Everyman and Medieval Miracle Plays*, ed. A. C. Cawley (London: J. M. Dent, Everyman's Library, 1956; rev. ed.).
+- Fanon, Frantz. *The Wretched of the Earth*, trans. Constance Farrington (New York: Grove Press, 1963).
+- Fanon, Frantz. *Black Skin, White Masks*, trans. Charles Lam Markmann (New York: Grove Press, 1967).
+- Fielding, Henry. *Joseph Andrews and Shamela*, ed. Judith Hawley (London: Penguin Classics, 1999).
+- Fielding, Henry. *Tom Jones*, ed. John Bender and Simon Stern (Oxford: Oxford World's Classics, 1996).
+- Foucault, Michel. "What Is an Author?," in *Language, Counter-Memory, Practice*, ed. Donald F. Bouchard (Ithaca: Cornell University Press, 1977).
+- Foucault, Michel. *The Archaeology of Knowledge*, trans. A. M. Sheridan Smith (London: Routledge, 2002).
+- Fowles, John. *The French Lieutenant's Woman* (London: Jonathan Cape, 1969).
+- Freud, Sigmund. *The Interpretation of Dreams*, trans. Joyce Crick (Oxford: Oxford World's Classics, 1999).
+- Freud, Sigmund. "Creative Writers and Day-Dreaming" and "The Uncanny," in *The Uncanny*, trans. David McLintock (London: Penguin Classics, 2003).
+- Gaskell, Elizabeth. *Mary Barton*, ed. Shirley Foster (Oxford: Oxford World's Classics, 2006).
+- Gaskell, Elizabeth. *North and South*, ed. Sally Shuttleworth (Oxford: Oxford World's Classics, 2008).
+- Geoffrey of Monmouth, *The History of the Kings of Britain*, trans. Lewis Thorpe (London: Penguin Classics, 1966).
+- Gilbert, W. S., and Arthur Sullivan. *The Mikado*, in *The Complete Plays of Gilbert and Sullivan* (New York: W. W. Norton, 1976).
+- Gilbert, Sandra M., and Susan Gubar. *The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination* (New Haven: Yale University Press, 1979).
+- Gildas, *The Ruin of Britain and Other Works*, ed. and trans. Michael Winterbottom (London: Phillimore, 1978).
+- Glotfelty, Cheryll, and Harold Fromm, eds. *The Ecocriticism Reader: Landmarks in Literary Ecology* (Athens: University of Georgia Press, 1996).
+- Golding, William. *Lord of the Flies* (London: Faber and Faber, 1954).
+- Goldsmith, Oliver. *The Vicar of Wakefield*, ed. Arthur Friedman and Robert L. Mack (Oxford: Oxford World's Classics, 2006).
+- Gower, John. *Confessio Amantis*, ed. Russell A. Peck, 3 vols. (Kalamazoo: Medieval Institute Publications, TEAMS Middle English Texts, 2000–2004).
+- Gray, Thomas. *The Poems of Gray, Collins, and Goldsmith*, ed. Roger Lonsdale (London: Longman Annotated English Poets, 1969).
+- Hardy, Thomas. *Tess of the d'Urbervilles*, ed. Tim Dolin (London: Penguin Classics, 2003).
+- Hardy, Thomas. *Jude the Obscure*, ed. Dennis Taylor (London: Penguin Classics, 1998).
+- Hardy, Thomas. *The Mayor of Casterbridge*, ed. Keith Wilson (London: Penguin Classics, 2003).
+- Hardy, Thomas. *Selected Poems*, ed. Samuel Hynes (Oxford: Oxford World's Classics, 2009).
+- Haywood, Eliza. *Selected Fiction and Drama*, ed. Paula R. Backscheider (Oxford: Oxford World's Classics, 1999).
+- Hazlitt, William. *Selected Writings*, ed. Jon Cook (Oxford: Oxford World's Classics, 1998).
+- Heaney, Seamus. *Opened Ground: Poems 1966–1996* (London: Faber and Faber, 1998).
+- Hemans, Felicia. *Felicia Hemans: Selected Poems, Letters, Reception Materials*, ed. Susan J. Wolfson (Princeton: Princeton University Press, 2000).
+- *Henry Howard, Earl of Surrey: Poems*, ed. Emrys Jones (Oxford: Clarendon Press, 1964).
+- *Henslowe's Diary*, ed. R. A. Foakes, 2nd ed. (Cambridge: Cambridge University Press, 2002).
+- Herbert, George. *The Complete English Poems*, ed. John Tobin (London: Penguin Classics, 1991).
+- Herrick, Robert. *The Complete Poetry*, ed. Tom Cain and Ruth Connolly, 3 vols. (Oxford: Oxford University Press, 2013).
+- Hobbes, Thomas. *Leviathan*, ed. Richard Tuck, rev. ed. (Cambridge: Cambridge University Press, 1996).
+- Hopkins, Gerard Manley. *The Major Works*, ed. Catherine Phillips, rev. ed. (Oxford: Oxford World's Classics, 2002).
+- Hopkins, Gerard Manley. *Poems and Prose*, ed. W. H. Gardner, rev. ed. (London: Penguin Classics, 1985).
+- Hughes, Ted. *Collected Poems*, ed. Paul Keegan (London: Faber and Faber, 2003).
+- Hume, David. *A Treatise of Human Nature*, ed. David Fate Norton and Mary J. Norton (Oxford: Oxford University Press, 2007).
+- Hutcheson, Francis. *An Inquiry into the Original of our Ideas of Beauty and Virtue*, ed. Wolfgang Leidhold, rev. ed. (Indianapolis: Liberty Fund, 2008).
+- Ishiguro, Kazuo. *The Remains of the Day* (London: Faber and Faber, 1989).
+- Johnson, Samuel. *The Major Works*, ed. Donald Greene (Oxford: Oxford World's Classics, 1984).
+- Johnson, Samuel. *The History of Rasselas, Prince of Abissinia*, ed. Thomas Keymer (Oxford: Oxford World's Classics, 2009).
+- Johnson, Samuel. *Lives of the Poets*, ed. Roger Lonsdale, 4 vols (Oxford: Clarendon Press, 2006).
+- Johnson, Samuel. *Selected Writings*, ed. Peter Martin (Cambridge, MA: Harvard University Press, 2009) — includes the *Preface to Shakespeare* and selections from the *Lives of the Poets*.
+- Jonson, Ben. *The Alchemist and Other Plays*, ed. Gordon Campbell (Oxford: Oxford World's Classics, 1995) — includes *Volpone* and *Bartholomew Fair*.
+- Jonson, Ben. *Timber, or Discoveries*, in *Ben Jonson's Literary Criticism*, ed. James D. Redwine Jr. (Lincoln: University of Nebraska Press, 1970).
+- Joyce, James. *Dubliners*, ed. Terence Brown (London: Penguin Classics, 2000).
+- Joyce, James. *Ulysses*, ed. Jeri Johnson (Oxford: Oxford World's Classics, 1998).
+- Julian of Norwich. *Revelations of Divine Love*, trans. Elizabeth Spearing, ed. A. C. Spearing (London: Penguin Classics, 1998).
+- Kane, Sarah. *Complete Plays* (London: Methuen, 2001).
+- Keats, John. *The Complete Poems*, ed. John Barnard, 3rd ed. (London: Penguin Classics, 1988).
+- Keats, John. *Selected Letters*, ed. Robert Gittings, rev. Jon Mee (Oxford: Oxford World's Classics, 2002).
+- Kempe, Margery. *The Book of Margery Kempe*, trans. Barry Windeatt (London: Penguin Classics, 1985; rev. ed. 2000).
+- Kincaid, Jamaica. *A Small Place* (New York: Farrar, Straus and Giroux, 1988).
+- *Klaeber's Beowulf and the Fight at Finnsburg*, 4th ed., ed. R. D. Fulk, Robert E. Bjork, and John D. Niles (Toronto: University of Toronto Press, 2008) — the standard scholarly edition.
+- Kureishi, Hanif. *The Buddha of Suburbia* (London: Faber and Faber, 1990).
+- Kyd, Thomas. *The Spanish Tragedy*, ed. Clara Calvo and Jesús Tronch (London: Arden Early Modern Drama, 2013).
+- Lacan, Jacques. "Seminar on 'The Purloined Letter,'" in *Écrits*, trans. Bruce Fink (New York: Norton, 2006).
+- Lamb, Charles. *Elia and The Last Essays of Elia*, ed. Jonathan Bate (Oxford: Oxford World's Classics, 1987).
+- Landon, Letitia Elizabeth. *Selected Writings*, ed. Jerome McGann and Daniel Riess (Peterborough, ON: Broadview Press, 1997).
+- Langland, William. *Piers Plowman: A Parallel-Text Edition of the A, B, C and Z Versions*, ed. A. V. C. Schmidt, 2 vols. (London: Longman, 1995; Kalamazoo: Medieval Institute Publications, rev. ed. 2011).
+- Langland, William. *Piers Plowman*, trans. (into modern English verse) Terence Tiller (London: Penguin Classics, 1981) — B-text translation.
+- Larkin, Philip. *Collected Poems*, ed. Anthony Thwaite (London: Faber and Faber, 2003).
+- Lawrence, D. H. *Sons and Lovers*, ed. Helen Baron and Carl Baron (Cambridge: Cambridge University Press, 1992).
+- Lawrence, D. H. *Women in Love*, ed. David Farmer, Lindeth Vasey, and John Worthen (Cambridge: Cambridge University Press, 1987).
+- Lawrence, D. H. *Lady Chatterley's Lover*, ed. Michael Squires (Cambridge: Cambridge University Press, 1993).
+- *Layamon: Brut*, ed. G. L. Brook and R. F. Leslie, Early English Text Society (Oxford: Oxford University Press, 1963–78).
+- Levy, Andrea. *Small Island* (London: Headline Review, 2004).
+- Lewis, Matthew. *The Monk*, ed. Howard Anderson, intro. Emma McEvoy, rev. ed. (Oxford: Oxford World's Classics, 2016).
+- Lovelace, Richard. *The Poems of Richard Lovelace*, ed. C. H. Wilkinson (Oxford: Clarendon Press, 1930).
+- Lukács, Georg. *Studies in European Realism*, trans. Edith Bone (London: Merlin Press, 1972).
+- MacDiarmid, Hugh. *A Drunk Man Looks at the Thistle*, ed. Kenneth Buthlay (Edinburgh: Scottish Academic Press, 1987).
+- Mackenzie, Henry. *The Man of Feeling*, ed. Brian Vickers (Oxford: Oxford World's Classics, 2001).
+- MacNeice, Louis. *Collected Poems*, ed. Peter McDonald (London: Faber and Faber, 2007).
+- Macpherson, James. *The Poems of Ossian and Related Works*, ed. Howard Gaskill, intro. Fiona Stafford (Edinburgh: Edinburgh University Press, 1996).
+- Malory, Thomas. *Le Morte Darthur*, ed. Helen Cooper (Oxford: Oxford World's Classics, 1998) — based on the Winchester Manuscript.
+- Manley, Delarivier. *The New Atalantis*, ed. Ros Ballaster (London: Penguin Classics, 1992).
+- Marie de France, *The Lais of Marie de France*, trans. Glyn S. Burgess and Keith Busby, 2nd ed. (London: Penguin Classics, 1999).
+- Marlowe, Christopher. *Doctor Faustus and Other Plays*, ed. David Bevington and Eric Rasmussen (Oxford: Oxford World's Classics, 1998) — includes *Tamburlaine*, *Doctor Faustus* (A- and B-texts), *The Jew of Malta*, and *Edward II*.
+- Marvell, Andrew. *The Complete Poems*, ed. Elizabeth Story Donno (London: Penguin Classics, 1972; rev. ed.).
+- Marx, Karl, and Friedrich Engels. *Marx and Engels on Literature and Art*, ed. Lee Baxandall and Stefan Morawski (St. Louis: Telos Press, 1973).
+- McEwan, Ian. *Atonement* (London: Jonathan Cape, 2001).
+- Middleton, Thomas. *Women Beware Women and Other Plays*, ed. Richard Dutton (Oxford: Oxford World's Classics, 1999).
+- Mill, John Stuart. *On Liberty and Other Writings*, ed. Stefan Collini (Cambridge: Cambridge University Press, 1989).
+- Millett, Kate. *Sexual Politics* (New York: Doubleday, 1970).
+- Milton, John. *Complete Shorter Poems*, ed. John Carey, 2nd ed. (Harlow: Longman, 1997).
+- Milton, John. *Areopagitica and Other Political Writings*, ed. John Alvis (Indianapolis: Liberty Fund, 1999).
+- Milton, John. *Paradise Lost*, ed. Alastair Fowler, 2nd ed. (Harlow: Longman, 2007).
+- Milton, John. *Paradise Regained, Samson Agonistes, and the Complete Shorter Poems*, ed. William Kerrigan, John Rumrich, and Stephen M. Fallon (New York: Modern Library, 2007).
+- Moore, G. E. *Principia Ethica* (Cambridge: Cambridge University Press, 1903).
+- More, Thomas. *Utopia*, trans. and ed. George M. Logan and Robert M. Adams, rev. ed. (Cambridge: Cambridge University Press, 2002).
+- Moretti, Franco. *Graphs, Maps, Trees: Abstract Models for a Literary History* (London: Verso, 2005).
+- Morgan, Sally. *My Place* (London: Virago, 1988).
+- Morris, William. *News from Nowhere and Other Writings*, ed. Clive Wilmer (London: Penguin Classics, 1993).
+- Munro, Alice. *Lives of Girls and Women* (London: Vintage Classics, 2001).
+- Murdoch, Iris. *The Sea, The Sea* (London: Chatto & Windus, 1978).
+- Naipaul, V. S. *A House for Mr Biswas* (London: André Deutsch, 1961).
+- Narayan, R. K. *The Guide* (London: Penguin Classics, 2006).
+- Newman, John Henry. *Apologia Pro Vita Sua*, ed. Ian Ker (Oxford: Oxford World's Classics, 2008).
+- Ngũgĩ wa Thiong'o. *Decolonising the Mind: The Politics of Language in African Literature* (London: James Currey, 1986).
+- Ondaatje, Michael. *The English Patient* (London: Bloomsbury, 2004).
+- Orwell, George. *Animal Farm*, ed. Malcolm Bradbury (London: Penguin Classics, 2000).
+- Orwell, George. *Nineteen Eighty-Four*, ed. Erica Wagner (London: Penguin Classics, 2021).
+- Osborne, John. *Look Back in Anger* (London: Faber and Faber, 1996).
+- Owen, Wilfred. *The Poems of Wilfred Owen*, ed. Jon Stallworthy (London: Chatto & Windus, 1990).
+- Paine, Thomas. *Rights of Man, Common Sense, and Other Political Writings*, ed. Mark Philp (Oxford: Oxford World's Classics, 2008).
+- Paterson, A. B. "Banjo." *The Man from Snowy River and Other Verses* (Sydney: Angus & Robertson, 1895).
+- Pepys, Samuel. *The Diary of Samuel Pepys*, ed. Robert Latham and William Matthews, 11 vols (Berkeley: University of California Press, 1970–83).
+- Percy, Thomas. *Reliques of Ancient English Poetry*, ed. Henry B. Wheatley, 3 vols. (London: Swan Sonnenschein, 1886; based on the 1765 first edition).
+- Pinter, Harold. *The Birthday Party and The Room* (London: Faber and Faber, 1991).
+- Pope, Alexander. *Alexander Pope: The Major Works*, ed. Pat Rogers (Oxford: Oxford World's Classics, 2006).
+- Pope, Alexander. *The Rape of the Lock and Other Poems*, ed. Cynthia Wall (Boston: Bedford/St Martin's, 1998).
+- Pope, Alexander. *The Dunciad in Four Books*, ed. Valerie Rumbold (Harlow: Longman, 1999).
+- Pope, Alexander. *An Essay on Criticism*, in *Alexander Pope: The Major Works*, ed. Pat Rogers (Oxford: Oxford World's Classics, 2006).
+- Pound, Ezra. "The Seafarer." In *Ripostes* (London: Stephen Swift, 1912; translation first published 1911).
+- Pound, Ezra. *Selected Poems, 1908–1969* (London: Faber and Faber, 1975).
+- Propp, Vladimir. *Morphology of the Folktale*, trans. Laurence Scott, 2nd ed. (Austin: University of Texas Press, 1968).
+- Radcliffe, Ann. *The Mysteries of Udolpho*, ed. Bonamy Dobrée, intro. Terry Castle (Oxford: Oxford World's Classics, 1998).
+- Rao, Raja. *Kanthapura* (New York: New Directions, 1963).
+- Richards, I. A. *Practical Criticism: A Study of Literary Judgment* (London: Kegan Paul, Trench, Trubner, 1929).
+- Richardson, Samuel. *Pamela*, ed. Thomas Keymer and Alice Wakely (Oxford: Oxford World's Classics, 2001).
+- Robertson, T. W. *Caste*, in *Plays by Tom Robertson*, ed. William Tydeman (Cambridge: Cambridge University Press, 1982).
+- *Robin Hood and Other Outlaw Tales*, ed. Stephen Knight and Thomas H. Ohlgren (Kalamazoo: Medieval Institute Publications, TEAMS Middle English Texts, 1997).
+- Rosenberg, Isaac. *The Collected Works of Isaac Rosenberg*, ed. Ian Parsons (London: Chatto & Windus, 1979).
+- Rossetti, Dante Gabriel. *Collected Poetry and Prose*, ed. Jerome McGann (New Haven: Yale University Press, 2003).
+- Rossetti, Christina. *The Complete Poems*, ed. R. W. Crump and Betty S. Flowers (London: Penguin Classics, 2001).
+- Roy, Arundhati. *The God of Small Things* (London: IndiaInk, 1997).
+- Rushdie, Salman. *Midnight's Children* (London: Jonathan Cape, 1981).
+- Ruskin, John. *Unto This Last and Other Writings*, ed. Clive Wilmer (London: Penguin Classics, 1985).
+- Said, Edward. *Orientalism* (New York: Pantheon Books, 1978).
+- Said, Edward. *Culture and Imperialism* (New York: Knopf, 1993).
+- Sassoon, Siegfried. *Collected Poems, 1908–1956* (London: Faber and Faber, 1961).
+- Saussure, Ferdinand de. *Course in General Linguistics*, trans. Roy Harris (London: Duckworth, 1983).
+- Scott, Walter. *Waverley*, ed. Claire Lamont (Oxford: Oxford World's Classics, 2015).
+- Selvon, Sam. *The Lonely Londoners* (London: Penguin Classics, 2006).
+- Shaftesbury, Anthony Ashley Cooper, Third Earl of. *Characteristicks of Men, Manners, Opinions, Times*, ed. Douglas den Uyl (Indianapolis: Liberty Fund, 2001).
+- Shakespeare, William. *The Norton Shakespeare*, gen. ed. Stephen Greenblatt et al., 3rd ed. (New York: W. W. Norton, 2015).
+- Shakespeare, William. *The Complete Sonnets and Poems*, ed. Colin Burrow (Oxford: Oxford World's Classics, 2002).
+- Shaw, George Bernard. *Mrs Warren's Profession*, in *Plays Unpleasant* (London: Penguin Classics, 2000).
+- Shaw, George Bernard. *Pygmalion and Major Barbara* (London: Penguin Classics, 2003).
+- Shaw, George Bernard. *Saint Joan* (London: Penguin Classics, 2001).
+- Shelley, Percy Bysshe. *Shelley's Poetry and Prose*, ed. Donald H. Reiman and Neil Fraistat, 2nd ed. (New York: Norton Critical Edition, 2002).
+- Shelley, Percy Bysshe. *The Major Works*, ed. Zachary Leader and Michael O'Neill (Oxford: Oxford World's Classics, 2003).
+- Shelley, Mary. *Frankenstein*, ed. J. Paul Hunter, 2nd ed. (New York: Norton Critical Edition, 2012).
+- Shelley, Percy Bysshe. "A Defence of Poetry," in *Shelley's Poetry and Prose*, ed. Donald H. Reiman and Neil Fraistat, 2nd ed. (New York: Norton Critical Edition, 2002).
+- Shklovsky, Viktor. "Art as Technique," in *Russian Formalist Criticism: Four Essays*, ed. Lee T. Lemon and Marion J. Reis (Lincoln: University of Nebraska Press, 1965).
+- Showalter, Elaine. *A Literature of Their Own: British Women Novelists from Brontë to Lessing* (Princeton: Princeton University Press, 1977).
+- Sidney, Philip. *The Major Works*, ed. Katherine Duncan-Jones (Oxford: Oxford World's Classics, 2002) — includes *Astrophil and Stella* and *The Defence of Poesy*.
+- Sidney, Philip. *The Defence of Poesy*, in *The Major Works*, ed. Katherine Duncan-Jones (Oxford: Oxford World's Classics, 2002).
+- *Sir Gawain and the Green Knight*, ed. J. R. R. Tolkien and E. V. Gordon, rev. Norman Davis, 2nd ed. (Oxford: Clarendon Press, 1967).
+- *Sir Gawain and the Green Knight: A New Verse Translation*, trans. Simon Armitage (New York: W. W. Norton, 2007).
+- *Sir Thomas Wyatt: The Complete Poems*, ed. R. A. Rebholz (London: Penguin Classics, 1978).
+- Smith, Adam. *The Theory of Moral Sentiments*, ed. Knud Haakonssen (Cambridge: Cambridge University Press, 2002).
+- Smith, Charlotte. *The Poems of Charlotte Smith*, ed. Stuart Curran (Oxford: Oxford University Press, 1993).
+- Smith, Zadie. *White Teeth* (London: Hamish Hamilton, 2000).
+- Smollett, Tobias. *The Expedition of Humphry Clinker*, ed. Lewis M. Knapp, rev. Paul-Gabriel Boucé (Oxford: Oxford World's Classics, 1984).
+- Soyinka, Wole. *Death and the King's Horseman* (New York: W. W. Norton, 2003).
+- Spender, Stephen. *New Collected Poems*, ed. Michael Brett (London: Faber and Faber, 2004).
+- Spenser, Edmund. *The Faerie Queene*, ed. A. C. Hamilton, rev. ed. (Harlow: Longman, 2007).
+- Spenser, Edmund. *The Shorter Poems*, ed. Richard A. McCabe (London: Penguin Classics, 1999) — includes *Amoretti* and *Epithalamion*.
+- Spivak, Gayatri Chakravorty. "Can the Subaltern Speak?" in *Marxism and the Interpretation of Culture*, ed. Cary Nelson and Lawrence Grossberg (Urbana: University of Illinois Press, 1988).
+- Sprat, Thomas. *The History of the Royal Society*, ed. Jackson I. Cope and Harold Whitmore Jones (St Louis: Washington University Studies, 1958; facsimile reprint, London: Routledge & Kegan Paul, 1966).
+- Steele, Richard. *The Tatler*, ed. Donald F. Bond, 3 vols (Oxford: Clarendon Press, 1987).
+- Sterne, Laurence. *The Life and Opinions of Tristram Shandy, Gentleman*, ed. Melvyn New and Joan New (London: Penguin Classics, 2003).
+- Sterne, Laurence. *A Sentimental Journey and Other Writings*, ed. Tim Parnell and Ian Jack (Oxford: Oxford World's Classics, 2003).
+- Stevenson, Robert Louis. *Strange Case of Dr Jekyll and Mr Hyde and Other Tales*, ed. Roger Luckhurst (Oxford: Oxford World's Classics, 2006).
+- Stoppard, Tom. *Rosencrantz and Guildenstern Are Dead* (London: Faber and Faber, 1967).
+- Stoppard, Tom. *Arcadia* (London: Faber and Faber, 1993).
+- Strachey, Lytton. *Eminent Victorians*, ed. John Sutherland (Oxford: Oxford World's Classics, 2003).
+- Suckling, John. *The Works of Sir John Suckling: The Non-Dramatic Works*, ed. Thomas Clayton (Oxford: Clarendon Press, 1971).
+- Swift, Jonathan. *Gulliver's Travels*, ed. Claude Rawson and Ian Higgins (Oxford: Oxford World's Classics, 2005).
+- Swift, Jonathan. *A Tale of a Tub and Other Works*, ed. Angus Ross and David Woolley (Oxford: Oxford World's Classics, 1986).
+- Swift, Jonathan. *A Modest Proposal and Other Writings*, ed. Carole Fabricant (London: Penguin Classics, 2009).
+- Swift, Jonathan. *The Drapier's Letters and Other Works, 1724–1725*, ed. Herbert Davis (Oxford: Basil Blackwell, 1955).
+- Swift, Jonathan. *A Tale of a Tub and Other Works*, ed. Marcus Walsh (Cambridge: Cambridge University Press, 2010).
+- Tennyson, Alfred. *The Poems of Tennyson*, ed. Christopher Ricks, 2nd ed., 3 vols (Harlow: Longman, 1987).
+- Tennyson, Alfred. *In Memoriam*, ed. Erik Gray, 2nd ed. (New York: Norton Critical Edition, 2004).
+- *The Anglo-Saxon Chronicle: A Revised Translation*, ed. and trans. Dorothy Whitelock, David C. Douglas, and Susie I. Tucker (London: Eyre & Spottiswoode, 1961).
+- *The Bible: Authorized King James Version*, ed. Robert Carroll and Stephen Prickett (Oxford: Oxford World's Classics, 1997).
+- *The Exeter Anthology of Old English Poetry*, ed. Bernard J. Muir, 2 vols. (Exeter: University of Exeter Press, 1994; rev. ed. 2000) — includes *Widsith* and *Deor*.
+- *The Exeter Anthology of Old English Poetry*, ed. Bernard J. Muir, 2 vols. (Exeter: University of Exeter Press, 1994; rev. ed. 2000).
+- *The Poems of Cynewulf*, trans. Charles W. Kennedy (London: Routledge, 1910; various reprints).
+- *The Towneley Plays*, ed. Martin Stevens and A. C. Cawley, Early English Text Society, 2 vols. (Oxford: Oxford University Press, 1994).
+- *The Vercelli Book*, ed. George Philip Krapp, Anglo-Saxon Poetic Records II (New York: Columbia University Press, 1932) — for *The Dream of the Rood*.
+- *The York Mystery Plays: A Selection in Modern Spelling*, ed. Richard Beadle and Pamela M. King (Oxford: Oxford University Press, 1984).
+- Thomas, Dylan. *Collected Poems, 1934–1953*, ed. Walford Davies and Ralph Maud (London: Phoenix, 2003).
+- Thomas, Dylan. *Under Milk Wood* (London: J. M. Dent, 1954).
+- Thomas, R. S. *Collected Poems, 1945–1990* (London: J. M. Dent, 1993).
+- Tolkien, J. R. R. *The Lord of the Rings*. London: George Allen & Unwin, 1954–55.
+- Tottel, Richard, ed. *Tottel's Miscellany (1557)*, ed. Hyder E. Rollins, rev. ed., 2 vols. (Cambridge, MA: Harvard University Press, 1965).
+- *Tyndale's New Testament*, ed. David Daniell (New Haven: Yale University Press, 1989).
+- Usk, Thomas. *Thomas Usk's Testament of Love: A Critical Edition*, ed. Gary Shawver (Toronto: University of Toronto Press, 2002).
+- Vaughan, Henry. *The Complete Poems*, ed. Alan Rudrum (London: Penguin Classics, 1976).
+- Walcott, Derek. *Collected Poems, 1948–1984* (New York: Farrar, Straus and Giroux, 1986).
+- Walcott, Derek. *Omeros* (New York: Farrar, Straus and Giroux, 1990).
+- Walpole, Horace. *The Castle of Otranto*, ed. Nick Groom (Oxford: Oxford World's Classics, 2014).
+- Webster, John. *The Duchess of Malfi and Other Plays*, ed. René Weis (Oxford: Oxford World's Classics, 1996).
+- White, Patrick. *Voss* (London: Vintage Classics, 1994).
+- *Widsith*, ed. Kemp Malone (Copenhagen: Rosenkilde and Bagger, 1962).
+- Wilde, Oscar. *The Picture of Dorian Gray*, ed. Robert Mighall (London: Penguin Classics, 2003).
+- Wilde, Oscar. *The Importance of Being Earnest and Other Plays*, ed. Peter Raby (Oxford: Oxford World's Classics, 2008).
+- Williams, Raymond. *Culture and Society, 1780–1950* (London: Chatto and Windus, 1958).
+- Williams, Raymond. *The Country and the City* (London: Chatto and Windus, 1973).
+- Wimsatt, W. K., and Monroe C. Beardsley. "The Intentional Fallacy" and "The Affective Fallacy," in *The Verbal Icon: Studies in the Meaning of Poetry* (Lexington: University of Kentucky Press, 1954).
+- Winterson, Jeanette. *Oranges Are Not the Only Fruit* (London: Pandora Press, 1985).
+- Wollstonecraft, Mary. *A Vindication of the Rights of Woman and A Vindication of the Rights of Men*, ed. Janet Todd (Oxford: Oxford World's Classics, 2008).
+- Woolf, Virginia. "Mr. Bennett and Mrs. Brown," in *Selected Essays*, ed. David Bradshaw (Oxford: Oxford World's Classics, 2008).
+- Woolf, Virginia. *Mrs Dalloway*, ed. David Bradshaw (Oxford: Oxford World's Classics, 2008).
+- Woolf, Virginia. *To the Lighthouse*, ed. David Bradshaw (Oxford: Oxford World's Classics, 2006).
+- Woolf, Virginia. *A Room of One's Own*, ed. Michèle Barrett (London: Penguin Classics, 2004).
+- Wordsworth, William, and Samuel Taylor Coleridge. *Lyrical Ballads: 1798 and 1802*, ed. Fiona Stafford (Oxford: Oxford World's Classics, 2013).
+- Wordsworth, William, and Samuel Taylor Coleridge. *Lyrical Ballads*, ed. R. L. Brett and A. R. Jones, 2nd ed. (London: Routledge, 1991).
+- Wordsworth, William. *The Prelude: 1799, 1805, 1850*, ed. Jonathan Wordsworth, M. H. Abrams, and Stephen Gill (New York: Norton Critical Edition, 1979).
+- Wordsworth, William. *The Major Works*, ed. Stephen Gill (Oxford: Oxford World's Classics, 2000).
+- Wordsworth, William. Preface to *Lyrical Ballads*, in *Lyrical Ballads: 1798 and 1802*, ed. Fiona Stafford (Oxford: Oxford World's Classics, 2013).
+- Wright, Alexis. *Carpentaria* (London: Constable, 2007).
+- Wulfstan, *Sermo Lupi ad Anglos*, ed. Dorothy Whitelock, 3rd ed. (Exeter: University of Exeter Press, 1976).
+- Wycherley, William. *The Country Wife*, ed. James Ogden (London: A & C Black, New Mermaids, 1991).
+- Yeats, W. B. *The Major Works*, ed. Edward Larrissy (Oxford: Oxford World's Classics, 2008).
+- Young, Edward. *Night Thoughts*, ed. Stephen Cornford (Cambridge: Cambridge University Press, 1989).
+- Ælfric, *Catholic Homilies*, ed. Peter Clemoes and Malcolm Godden, Early English Text Society (Oxford: Oxford University Press, various volumes).
+
+---
+
+## Secondary Criticism and Further Reading
+
+- Abrams, M. H. *Natural Supernaturalism: Tradition and Revolution in Romantic Literature* (New York: Norton, 1971).
+- Abrams, M. H. *The Mirror and the Lamp: Romantic Theory and the Critical Tradition* (New York: Oxford University Press, 1953).
+- Achebe, Chinua. "An Image of Africa: Racism in Conrad's *Heart of Darkness*," *Massachusetts Review* 18 (1977).
+- Achinstein, Sharon. *Milton and the Revolutionary Reader*. Princeton: Princeton University Press, 1994.
+- Ackroyd, Peter. *Blake* (London: Sinclair-Stevenson, 1995).
+- Ackroyd, Peter. *T. S. Eliot: A Life* (New York: Simon and Schuster, 1984).
+- Archibald, Elizabeth, and A. S. G. Edwards, eds. *A Companion to Malory*. Cambridge: D. S. Brewer, 1996.
+- Armstrong, Isobel. *Victorian Poetry: Poetry, Poetics and Politics* (London: Routledge, 1993).
+- Ashcroft, Bill, Gareth Griffiths, and Helen Tiffin. *The Empire Writes Back: Theory and Practice in Post-Colonial Literatures* (London: Routledge, 1989).
+- Ashcroft, Bill, Gareth Griffiths, and Helen Tiffin. *The Empire Writes Back: Theory and Practice in Post-Colonial Literatures*, 2nd ed. (London: Routledge, 2002).
+- Ashe, Laura. *Fiction and History in England, 1066–1200*. Cambridge: Cambridge University Press, 2007.
+- Ashton, Rosemary. *George Eliot: A Life* (London: Hamish Hamilton, 1996).
+- Aston, Elaine. *Caryl Churchill*, 2nd ed. (Plymouth: Northcote House, 2001).
+- Atwood, Margaret. *Survival: A Thematic Guide to Canadian Literature* (Toronto: House of Anansi Press, 1972).
+- Ballaster, Ros. *Seductive Forms: Women's Amatory Fiction from 1684 to 1740* (Oxford: Clarendon Press, 1992).
+- Barker, Juliet. *The Brontës* (London: Weidenfeld & Nicolson, 1994).
+- Barker-Benfield, G. J. *The Culture of Sensibility: Sex and Society in Eighteenth-Century Britain* (Chicago: University of Chicago Press, 1992).
+- Barth, J. Robert. *Coleridge and Christian Doctrine* (Cambridge, MA: Harvard University Press, 1969).
+- Barton, Anne. *Ben Jonson, Dramatist*. Cambridge: Cambridge University Press, 1984.
+- Bate, Jonathan, and Eric Rasmussen, eds. *William Shakespeare: Complete Works* (RSC Shakespeare). Basingstoke: Macmillan, 2007.
+- Bate, Walter Jackson. *Samuel Johnson* (New York: Harcourt Brace Jovanovich, 1977).
+- Bate, Walter Jackson. *John Keats* (Cambridge, MA: Harvard University Press, 1963).
+- Bate, Jonathan. *Ted Hughes: The Unauthorised Life* (London: William Collins, 2015).
+- Bate, Walter Jackson. *From Classic to Romantic: Premises of Taste in Eighteenth-Century England* (Cambridge, MA: Harvard University Press, 1946).
+- Beadle, Richard, ed. *The Cambridge Companion to Medieval English Theatre*, 2nd ed. Cambridge: Cambridge University Press, 2008.
+- Beer, Gillian. *Darwin's Plots: Evolutionary Narrative in Darwin, George Eliot and Nineteenth-Century Fiction* (London: Routledge & Kegan Paul, 1983).
+- Benson, Larry D. "The Literary Character of Anglo-Saxon Formulaic Poetry." *PMLA* 81.5 (1966): 334–341.
+- Bhabha, Homi K. *The Location of Culture* (London: Routledge, 1994).
+- Bieri, James. *Percy Bysshe Shelley: A Biography*, 2 vols (Newark: University of Delaware Press, 2004–2005).
+- Billington, Michael. *Harold Pinter* (London: Faber and Faber, 2007).
+- Bjork, Robert E., ed. *Cynewulf: Basic Readings*. New York: Garland, 1996.
+- Blake, N. F. *Caxton and His World*. London: André Deutsch, 1969.
+- Boitani, Piero, ed. *Chaucer and the Italian Trecento*. Cambridge: Cambridge University Press, 1983.
+- Booth, Michael R. *Theatre in the Victorian Age* (Cambridge: Cambridge University Press, 1991).
+- Botting, Fred. *Gothic* (London: Routledge, 1996).
+- Bradbury, Malcolm, and James McFarlane, eds. *Modernism: A Guide to European Literature, 1890–1930* (London: Penguin, 1976).
+- Brantlinger, Patrick. *The Reading Lesson: The Threat of Mass Literacy in Nineteenth-Century British Fiction* (Bloomington: Indiana University Press, 1998).
+- Brathwaite, Kamau. *History of the Voice: The Development of Nation Language in Anglophone Caribbean Poetry* (London: New Beacon Books, 1984).
+- Brennan, Timothy. *Salman Rushdie and the Third World: Myths of the Nation* (London: Macmillan, 1989).
+- Briggs, Asa. *Victorian People: A Reassessment of Persons and Themes, 1851–67* (Chicago: University of Chicago Press, 1955).
+- Brooks, Cleanth. *The Well Wrought Urn: Studies in the Structure of Poetry* (New York: Harcourt, Brace, 1947).
+- Buell, Lawrence. *The Environmental Imagination: Thoreau, Nature Writing, and the Formation of American Culture* (Cambridge, MA: Harvard University Press, 1995).
+- Burrow, J. A. *A Reading of Sir Gawain and the Green Knight*. London: Routledge & Kegan Paul, 1965.
+- Butler, Marilyn. *Romantics, Rebels and Reactionaries: English Literature and Its Background 1760–1830* (Oxford: Oxford University Press, 1981).
+- Butler, Marilyn. *Jane Austen and the War of Ideas* (Oxford: Clarendon Press, 1975).
+- Campbell, James, Eric John, and Patrick Wormald. *The Anglo-Saxons*. London: Penguin, 1991.
+- Campbell, Gordon, and Thomas N. Corns. *John Milton: Life, Work, and Thought*. Oxford: Oxford University Press, 2008.
+- Carey, John. *John Donne: Life, Mind and Art*. London: Faber and Faber, 1981.
+- Carey, John. *William Golding: The Man Who Wrote Lord of the Flies* (London: Faber and Faber, 2009).
+- Carpenter, Humphrey. *A Serious Character: The Life of Ezra Pound* (Boston: Houghton Mifflin, 1988).
+- Chase, Colin, ed. *The Dating of Beowulf*. Toronto: University of Toronto Press, 1981.
+- Cheney, Patrick, ed. *The Cambridge Companion to Christopher Marlowe*. Cambridge: Cambridge University Press, 2004.
+- Clery, E. J. *The Rise of Supernatural Fiction, 1762–1800* (Cambridge: Cambridge University Press, 1995).
+- Collini, Stefan. *Arnold* (Oxford: Oxford University Press, 1994).
+- Conradi, Peter J. *Iris Murdoch: A Life* (London: HarperCollins, 2001).
+- Cooper, Helen. *The Canterbury Tales*, Oxford Guides to Chaucer, 2nd ed. Oxford: Oxford University Press, 1996.
+- Court, Franklin E. *Institutionalizing English Literature: The Culture and Politics of Literary Study, 1750–1900* (Stanford: Stanford University Press, 1992).
+- Courtney, Winifred F. *Young Charles Lamb, 1775–1802* (New York: New York University Press, 1982).
+- Craig, Cairns. *The Modern Scottish Novel: Narrative and the National Imagination* (Edinburgh: Edinburgh University Press, 1999).
+- Crawford, Robert. *The Bard: Robert Burns, A Biography* (London: Jonathan Cape, 2009).
+- Crawford, Robert. *Scotland's Books: The Penguin History of Scottish Literature* (London: Penguin, 2007).
+- Culler, Jonathan. *Structuralist Poetics: Structuralism, Linguistics, and the Study of Literature* (London: Routledge, 1975).
+- Culler, Jonathan. *On Deconstruction: Theory and Criticism after Structuralism* (Ithaca: Cornell University Press, 1982).
+- Damrosch, Leopold. *Samuel Johnson and the Tragic Sense* (New Haven: Yale University Press, 1972).
+- Daniell, David. *William Tyndale: A Biography*. New Haven: Yale University Press, 1994.
+- Davidson, Clifford. *Festivals and Plays in Late Medieval Britain*. Aldershot: Ashgate, 2007.
+- Davis, Tracy C., and Peter Holland, eds. *The Cambridge Companion to Victorian and Edwardian Theatre* (Cambridge: Cambridge University Press, 2007).
+- Deane, Seamus. *A Short History of Irish Literature* (London: Hutchinson, 1986).
+- DeLaura, David J. *Hebrew and Hellene in Victorian England: Newman, Arnold, and Pater* (Austin: University of Texas Press, 1969).
+- Devine, T. M. *The Scottish Nation: A History, 1700–2000* (London: Allen Lane, 1999).
+- Discenza, Nicole Guenther, and Paul E. Szarmach, eds. *A Companion to Alfred the Great*. Leiden: Brill, 2015.
+- Doody, Margaret Anne. *The True Story of the Novel* (New Brunswick: Rutgers University Press, 1996).
+- Draper, John W. *The Funeral Elegy and the Rise of English Romanticism* (New York: New York University Press, 1929).
+- Duffy, Cian. *Shelley and the Revolutionary Sublime* (Cambridge: Cambridge University Press, 2005).
+- Duncan-Jones, Katherine. *Sir Philip Sidney: Courtier Poet*. New Haven: Yale University Press, 1991.
+- Dutton, Richard. *Mastering the Revels: The Regulation and Censorship of English Renaissance Drama*. Basingstoke: Macmillan, 1991.
+- Eagleton, Terry. *Marxism and Literary Criticism* (London: Methuen, 1976).
+- Eagleton, Mary, ed. *Feminist Literary Theory: A Reader*, 3rd ed. (Oxford: Wiley-Blackwell, 2010).
+- Echard, Siân, ed. *A Companion to Gower*. Cambridge: D. S. Brewer, 2004.
+- Ehrenpreis, Irvin. *Swift: The Man, His Works, and the Age*, 3 vols (Cambridge, MA: Harvard University Press, 1962–1983).
+- Eliot, T. S. "The Metaphysical Poets." *Times Literary Supplement*, 20 October 1921; repr. in *Selected Essays* (London: Faber and Faber, 1932).
+- Ellmann, Richard. *Oscar Wilde* (New York: Knopf, 1987).
+- Ellmann, Richard. *Yeats: The Man and the Masks* (New York: Macmillan, 1948).
+- Ellmann, Richard. *James Joyce*, rev. ed. (Oxford: Oxford University Press, 1982).
+- Erdman, David V. *Blake: Prophet Against Empire: A Poet's Interpretation of the History of His Own Times*, 3rd ed. (Princeton: Princeton University Press, 1977).
+- Erlich, Victor. *Russian Formalism: History, Doctrine*, 3rd ed. (New Haven: Yale University Press, 1981).
+- Erskine-Hill, Howard. *The Social Milieu of Alexander Pope* (New Haven: Yale University Press, 1975).
+- Esslin, Martin. *The Theatre of the Absurd*, 3rd ed. (New York: Vintage, 2004).
+- Fabricant, Carole. *Swift's Landscape* (Baltimore: Johns Hopkins University Press, 1982).
+- Felman, Shoshana, ed. *Literature and Psychoanalysis: The Question of Reading Otherwise* (Baltimore: Johns Hopkins University Press, 1982).
+- Ferris, Paul. *Dylan Thomas: The Biography* (London: J. M. Dent, 1999).
+- Field, P. J. C. *The Life and Times of Sir Thomas Malory*. Cambridge: D. S. Brewer, 1993.
+- Fish, Stanley. *Surprised by Sin: The Reader in Paradise Lost*, 2nd ed. Cambridge, MA: Harvard University Press, 1997.
+- Fisher, John H. *John Gower: Moral Philosopher and Friend of Chaucer*. New York: New York University Press, 1964.
+- Fleming, John. *Stoppard's Theatre: Finding Order Amid Chaos* (Austin: University of Texas Press, 2001).
+- Forster, Margaret. *Elizabeth Barrett Browning: A Biography* (London: Chatto & Windus, 1988).
+- Foster, R. F. *Modern Ireland, 1600–1972* (London: Allen Lane, 1988).
+- Fowler, David C. *A Literary History of the Popular Ballad*. Durham, NC: Duke University Press, 1968.
+- French, Patrick. *The World Is What It Is: The Authorized Biography of V. S. Naipaul* (London: Picador, 2008).
+- Frye, Northrop. *Fearful Symmetry: A Study of William Blake* (Princeton: Princeton University Press, 1947).
+- Fussell, Paul. *The Great War and Modern Memory* (Oxford: Oxford University Press, 1975).
+- Gallagher, Catherine. *The Industrial Reformation of English Fiction: Social Discourse and Narrative Form, 1832–1867* (Chicago: University of Chicago Press, 1985).
+- Gaskell, Elizabeth. *The Life of Charlotte Brontë* (London: Smith, Elder & Co., 1857).
+- Gaskill, Howard, ed. *Ossian Revisited* (Edinburgh: Edinburgh University Press, 1991).
+- Gatch, Milton McC. *Preaching and Theology in Anglo-Saxon England: Ælfric and Wulfstan*. Toronto: University of Toronto Press, 1977.
+- Gikandi, Simon. *Reading Chinua Achebe: Language and Ideology in Fiction* (London: James Currey, 1991).
+- Gilbert, Sandra M., and Susan Gubar. *The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination* (New Haven: Yale University Press, 1979).
+- Gill, Stephen. *William Wordsworth: A Life* (Oxford: Oxford University Press, 1989).
+- Gilroy, Paul. *The Black Atlantic: Modernity and Double Consciousness* (Cambridge, MA: Harvard University Press, 1993).
+- Gittings, Robert. *John Keats* (London: Heinemann, 1968).
+- Gittings, Robert. *Young Thomas Hardy* (London: Heinemann, 1975).
+- Godden, Malcolm. "Did King Alfred Write Anything?" *Medium Ævum* 76.1 (2007): 1–23.
+- Goodwin, Albert. *The Friends of Liberty: The English Democratic Movement in the Age of the French Revolution* (Cambridge, MA: Harvard University Press, 1979).
+- Gramsci, Antonio. *Selections from the Prison Notebooks*, ed. and trans. Quintin Hoare and Geoffrey Nowell Smith (London: Lawrence and Wishart, 1971).
+- Greenblatt, Stephen. *Will in the World: How Shakespeare Became Shakespeare*. New York: W. W. Norton, 2004.
+- Greenfield, Stanley B. "The Dream of the Rood: Christ as Poetic Hero." In *The Interpretation of Old English Poems* (London: Routledge & Kegan Paul, 1972).
+- Groom, Nick. *The Forger's Shadow: How Forgery Changed the Course of Literature* (London: Picador, 2002).
+- Gurr, Andrew. *The Shakespearean Stage, 1574–1642*, 4th ed. Cambridge: Cambridge University Press, 2009.
+- Gurr, Andrew, and Mariko Ichikawa. *Staging in Shakespeare's Theatres*. Oxford: Oxford University Press, 2000.
+- Hall, Stuart. "Cultural Identity and Diaspora," in *Identity: Community, Culture, Difference*, ed. Jonathan Rutherford (London: Lawrence & Wishart, 1990).
+- Halliwell, Stephen. *Aristotle's Poetics* (London: Duckworth, 1986).
+- Hamilton, A. C. *The Structure of Allegory in The Faerie Queene*. Oxford: Clarendon Press, 1961.
+- Hammond, Paul. *John Dryden: A Literary Life* (Basingstoke: Macmillan, 1991).
+- Hartman, Geoffrey H. *Wordsworth's Poetry, 1787–1814* (New Haven: Yale University Press, 1964).
+- Haywood, Ian. *The Making of History: A Study of the Literary Forgeries of James Macpherson and Thomas Chatterton in Relation to Eighteenth-Century Ideas of History and Fiction* (Rutherford: Fairleigh Dickinson University Press, 1986).
+- Head, Dominic. *Ian McEwan* (Manchester: Manchester University Press, 2007).
+- Hellinga, Lotte. *Caxton in Focus: The Beginning of Printing in England*. London: British Library, 1982.
+- Hennessy, Peter. *Never Again: Britain, 1945–1951* (London: Jonathan Cape, 1992).
+- Hibberd, Dominic. *Wilfred Owen: A New Biography* (London: Weidenfeld & Nicolson, 2002).
+- Higham, N. J., and M. J. Ryan. *The Anglo-Saxon World*. New Haven: Yale University Press, 2013.
+- Himmelfarb, Gertrude. *The Idea of Poverty: England in the Early Industrial Age* (New York: Knopf, 1984).
+- Holloway, John. *The Victorian Sage: Studies in Argument* (London: Macmillan, 1953).
+- Holmes, Richard. *Coleridge: Early Visions* (London: Hodder & Stoughton, 1989) and *Coleridge: Darker Reflections* (London: HarperCollins, 1998).
+- Holmes, Richard. *Shelley: The Pursuit* (London: Weidenfeld & Nicolson, 1974).
+- Holroyd, Michael. *Bernard Shaw*, 4 vols. (London: Chatto & Windus, 1988–1992).
+- Holroyd, Michael. *Lytton Strachey: A Critical Biography* (London: Heinemann, 1967–1968).
+- Holt, J. C. *Robin Hood*, rev. ed. London: Thames and Hudson, 1989.
+- Honan, Park. *Matthew Arnold: A Life* (New York: McGraw-Hill, 1981).
+- Hopkins, David. *John Dryden* (Cambridge: Cambridge University Press, 1986).
+- Howe, Elizabeth. *The First English Actresses: Women and Drama, 1660–1700* (Cambridge: Cambridge University Press, 1992).
+- Hume, Robert D. *The Development of English Drama in the Late Seventeenth Century* (Oxford: Clarendon Press, 1976).
+- Hunter, Michael. *Establishing the New Science: The Experience of the Early Royal Society* (Woodbridge: Boydell Press, 1989).
+- Hutcheon, Linda. *A Poetics of Postmodernism: History, Theory, Fiction* (New York: Routledge, 1988).
+- Hutton, Ronald. *The Restoration: A Political and Religious History of England and Wales, 1658–1667* (Oxford: Clarendon Press, 1985).
+- Hynes, Samuel. *The Auden Generation: Literature and Politics in England in the 1930s* (London: Bodley Head, 1976).
+- Ingham, Richard, ed. *The Anglo-Norman Language and Its Contexts*. York: York Medieval Press, 2010.
+- International Society for the Study of Early Medieval England (ISSEME). "Statement on the Term 'Anglo-Saxon.'" ISSEME, 2019.
+- Jacobus, Mary. *Tradition and Experiment in Wordsworth's 'Lyrical Ballads' (1798)* (Oxford: Clarendon Press, 1976).
+- Jardine, Lisa, and Alan Stewart. *Hostage to Fortune: The Troubled Life of Francis Bacon*. London: Gollancz, 1998.
+- Jeyifo, Biodun. *Wole Soyinka: Politics, Poetics, and Postcolonialism* (Cambridge: Cambridge University Press, 2004).
+- Jockers, Matthew L. *Macroanalysis: Digital Methods and Literary History* (Urbana: University of Illinois Press, 2013).
+- Johnson, Claudia L. *Jane Austen: Women, Politics, and the Novel* (Chicago: University of Chicago Press, 1988).
+- Johnston, Kenneth R. *The Hidden Wordsworth: Poet, Lover, Rebel, Spy* (New York: Norton, 1998).
+- Johnston, Dafydd. *A Guide to Welsh Literature, c. 1900–1996* (Cardiff: University of Wales Press, 1998).
+- Jones, Ernest. *Hamlet and Oedipus* (New York: Norton, 1949).
+- Justice, Steven. *Writing and Rebellion: England in 1381*. Berkeley: University of California Press, 1994.
+- Kaplan, Louise J. *The Family Romance of the Impostor-Poet Thomas Chatterton* (New York: Atheneum, 1988).
+- Karlin, Daniel. *The Courtship of Robert Browning and Elizabeth Barrett* (Oxford: Clarendon Press, 1985).
+- Kelsall, Malcolm. *Byron's Politics* (Sussex: Harvester Press, 1987).
+- Ker, Ian. *John Henry Newman: A Biography* (Oxford: Oxford University Press, 1988).
+- Kerby-Fulton, Kathryn. *Reformist Apocalypticism and Piers Plowman*. Cambridge: Cambridge University Press, 1990.
+- Kern, Stephen. *The Culture of Time and Space, 1880–1918* (Cambridge, MA: Harvard University Press, 1983).
+- Ketcham, Michael G. *Transparent Designs: Reading, Performance, and Form in the Spectator Papers* (Athens: University of Georgia Press, 1985).
+- Keymer, Thomas. *Sterne, the Moderns, and the Novel* (Oxford: Oxford University Press, 2002).
+- Keynes, Simon, and Michael Lapidge, eds. *Alfred the Great: Asser's Life of King Alfred and Other Contemporary Sources*. London: Penguin, 1983.
+- Kiberd, Declan. *Inventing Ireland: The Literature of the Modern Nation* (London: Jonathan Cape, 1995).
+- Kiernan, Kevin S. *Beowulf and the Beowulf Manuscript*, rev. ed. Ann Arbor: University of Michigan Press, 1996.
+- Killeen, Kevin. *The Political Bible in Early Modern England*. Cambridge: Cambridge University Press, 2016.
+- King, Kathryn R. *A Political Biography of Eliza Haywood* (London: Pickering & Chatto, 2012).
+- Klancher, Jon P. *The Making of English Reading Audiences, 1790–1832* (Madison: University of Wisconsin Press, 1987).
+- Klein, Lawrence E. "Coffeehouse Civility, 1660–1714: An Aspect of Post-Courtly Culture in England," *Huntington Library Quarterly* 59, no. 1 (1996): 30–51.
+- Klinck, Anne L., ed. *The Old English Elegies: A Critical Edition and Genre Study*. Montreal: McGill-Queen's University Press, 1992.
+- Knight, Stephen. *Robin Hood: A Mythic Biography*. Ithaca: Cornell University Press, 2003.
+- Knowlson, James. *Damned to Fame: The Life of Samuel Beckett* (London: Bloomsbury, 1996).
+- Kolve, V. A. *The Play Called Corpus Christi*. Stanford: Stanford University Press, 1966.
+- Labbe, Jacqueline M. *Charlotte Smith: Romanticism, Poetry and the Culture of Gender* (Manchester: Manchester University Press, 2003).
+- Langland, Elizabeth. *Anne Brontë: The Other One* (London: Macmillan, 1989).
+- Larkin, Philip. *Selected Letters of Philip Larkin*, ed. Anthony Thwaite (London: Faber and Faber, 1992).
+- Leavis, F. R. *D. H. Lawrence: Novelist* (London: Chatto & Windus, 1955).
+- Lee, Hermione. *Virginia Woolf* (London: Chatto & Windus, 1996).
+- Leitch, Vincent B., ed. *The Norton Anthology of Theory and Criticism*, 2nd ed. (New York: Norton, 2010).
+- Levenson, Michael. *A Genealogy of Modernism: A Study of English Literary Doctrine, 1908–1922* (Cambridge: Cambridge University Press, 1984).
+- Levin, Harry. *Christopher Marlowe: The Overreacher*. Cambridge, MA: Harvard University Press, 1952.
+- Levin, Susan M. *Dorothy Wordsworth and Romanticism* (New Brunswick: Rutgers University Press, 1987).
+- Levine, George, ed. *The Cambridge Companion to George Eliot* (Cambridge: Cambridge University Press, 2001).
+- Levine, Joseph M. *The Battle of the Books: History and Literature in the Augustan Age* (Ithaca: Cornell University Press, 1991).
+- Levinson, Marjorie. *Wordsworth's Great Period Poems: Four Essays* (Cambridge: Cambridge University Press, 1986).
+- Lewalski, Barbara K. *The Life of John Milton: A Critical Biography*, rev. ed. Oxford: Blackwell, 2003.
+- Lewis, C. S. *A Preface to Paradise Lost*. Oxford: Oxford University Press, 1942.
+- Lindop, Grevel. *The Opium-Eater: A Life of Thomas De Quincey* (London: Weidenfeld & Nicolson, 1981).
+- Lord, Albert B. *The Singer of Tales*. Cambridge, MA: Harvard University Press, 1960.
+- Low, Donald A., ed. *Critical Essays on Robert Burns* (London: Routledge & Kegan Paul, 1975).
+- Lowes, John Livingston. *The Road to Xanadu: A Study in the Ways of the Imagination* (Boston: Houghton Mifflin, 1927).
+- Luckyj, Christina. *A Winter's Snake: Dramatic Form in the Tragedies of John Webster*. Athens: University of Georgia Press, 1989.
+- Lynch, Jack. *Samuel Johnson in Context* (Cambridge: Cambridge University Press, 2012).
+- Lévi-Strauss, Claude. *Structural Anthropology*, trans. Claire Jacobson and Brooke Grundfest Schoepf (New York: Basic Books, 1963).
+- MacCarthy, Fiona. *Byron: Life and Legend* (London: John Murray, 2002).
+- MacCarthy, Fiona. *William Morris: A Life for Our Time* (London: Faber and Faber, 1994).
+- MacCulloch, Diarmaid. *The Reformation: A History*. London: Allen Lane, 2003.
+- Machan, Tim William. *English in the Middle Ages*. Oxford: Oxford University Press, 2003.
+- Mack, Maynard. *Alexander Pope: A Life* (New Haven: Yale University Press, 1985).
+- MacKenzie, Norman H. *A Reader's Guide to Gerard Manley Hopkins* (Ithaca: Cornell University Press, 1981).
+- Mackie, Erin. *Market à la Mode: Fashion, Commodity, and Gender in The Tatler and The Spectator* (Baltimore: Johns Hopkins University Press, 1997).
+- Magoun, Francis P. "The Oral-Formulaic Character of Anglo-Saxon Narrative Poetry." *Speculum* 28.3 (1953): 446–467.
+- Marchand, Leslie A. *Byron: A Biography*, 3 vols (New York: Knopf, 1957).
+- Mariani, Paul. *Gerard Manley Hopkins: A Life* (New York: Viking, 2008).
+- Marius, Richard. *Thomas More: A Biography*. New York: Knopf, 1984.
+- Marotti, Arthur F. *Manuscript, Print, and the English Renaissance Lyric*. Ithaca: Cornell University Press, 1995.
+- Marsh, Jan. *Dante Gabriel Rossetti: Painter and Poet* (London: Weidenfeld & Nicolson, 1999).
+- Marsh, Jan. *Christina Rossetti: A Literary Biography* (London: Jonathan Cape, 1994).
+- Martin, Peter. *Samuel Johnson: A Biography* (Cambridge, MA: Harvard University Press, 2008).
+- Martin, Robert Bernard. *Tennyson: The Unquiet Heart* (Oxford: Clarendon Press, 1980).
+- McCalman, Iain, ed. *An Oxford Companion to the Romantic Age: British Culture 1776–1832* (Oxford: Oxford University Press, 1999).
+- McConica, James. *English Humanists and Reformation Politics under Henry VIII and Edward VI*. Oxford: Clarendon Press, 1965.
+- McGuirk, Carol. *Robert Burns and the Sentimental Era* (Athens: University of Georgia Press, 1985).
+- McKeon, Michael. *The Origins of the English Novel, 1600–1740* (Baltimore: Johns Hopkins University Press, 1987).
+- Mellor, Anne K. *Mary Shelley: Her Life, Her Fiction, Her Monsters* (New York: Routledge, 1988).
+- Mellor, Anne K. *Romanticism and Gender* (New York: Routledge, 1993).
+- Mendelson, Edward. *Early Auden* (London: Faber and Faber, 1981).
+- Meyerstein, E. H. W. *A Life of Thomas Chatterton* (London: Ingpen and Grant, 1930).
+- Michelis, Angelica, and Antony Rowland, eds. *The Poetry of Carol Ann Duffy* (Manchester: Manchester University Press, 2003).
+- Miller, J. Hillis. *Thomas Hardy: Distance and Desire* (Cambridge, MA: Harvard University Press, 1970).
+- Millett, Kate. *Sexual Politics* (New York: Doubleday, 1970).
+- Millgate, Michael. *Thomas Hardy: A Biography Revisited* (Oxford: Oxford University Press, 2004).
+- Milward, Peter. *A Commentary on the Sonnets of G. M. Hopkins* (Chicago: Loyola University Press, 1969).
+- Miner, Earl. *The Cavalier Mode from Jonson to Cotton*. Princeton: Princeton University Press, 1971.
+- Moers, Ellen. *Literary Women* (Garden City, NY: Doubleday, 1976).
+- Moi, Toril. *Sexual/Textual Politics: Feminist Literary Theory*, 2nd ed. (London: Routledge, 2002).
+- Moore, Dafydd. *Enlightenment and Romance in James Macpherson's The Poems of Ossian: Myth, Genre and Cultural Change* (Aldershot: Ashgate, 2003).
+- Moore-Gilbert, Bart. *Postcolonial Theory: Contexts, Practices, Politics* (London: Verso, 1997).
+- Morrison, Blake. *The Movement: English Poetry and Fiction of the 1950s* (Oxford: Oxford University Press, 1980).
+- Motion, Andrew. *Keats* (London: Faber and Faber, 1997).
+- Motion, Andrew. *Philip Larkin: A Writer's Life* (London: Faber and Faber, 1993).
+- Muecke, Stephen. *Textual Spaces: Aboriginality and Cultural Studies* (Sydney: University of New South Wales Press, 1992).
+- Mukherjee, Meenakshi. *The Perishable Empire: Essays on Indian Writing in English* (New Delhi: Oxford University Press, 2000).
+- Mullan, John. *Sentiment and Sociability: The Language of Feeling in the Eighteenth Century* (Oxford: Clarendon Press, 1988).
+- Muller, John P., and William J. Richardson, eds. *The Purloined Poe: Lacan, Derrida, and Psychoanalytic Reading* (Baltimore: Johns Hopkins University Press, 1988).
+- Neidorf, Leonard, ed. *The Dating of Beowulf: A Reassessment*. Cambridge: D. S. Brewer, 2014.
+- New, Melvyn. *Tristram Shandy: A Book for Free Spirits* (New York: Twayne, 1994).
+- Nicholl, Charles. *The Reckoning: The Murder of Christopher Marlowe*, rev. ed. London: Vintage, 2002.
+- Nicolson, Adam. *God's Secretaries: The Making of the King James Bible*. New York: HarperCollins, 2003.
+- Niles, John D. *Homo Narrans: The Poetics and Anthropology of Oral Literature*. Philadelphia: University of Pennsylvania Press, 1999.
+- Nokes, David. *Jonathan Swift, a Hypocrite Reversed: A Critical Biography* (Oxford: Oxford University Press, 1985).
+- Norris, Christopher. *Deconstruction: Theory and Practice*, rev. ed. (London: Routledge, 1991).
+- North, Michael. *The Political Aesthetic of Yeats, Eliot, and Pound* (Cambridge: Cambridge University Press, 1991).
+- O'Donnell, Daniel Paul. *Cædmon's Hymn: A Multimedia Study, Edition, and Archive*. Cambridge: D. S. Brewer, 2005.
+- O'Driscoll, Dennis. *Stepping Stones: Interviews with Seamus Heaney* (London: Faber and Faber, 2008).
+- O'Neill, Michael. *The Human Mind's Imaginings: Conflict and Achievement in Shelley's Poetry* (Oxford: Clarendon Press, 1989).
+- Onega, Susana. *Jeanette Winterson* (Manchester: Manchester University Press, 2006).
+- Opland, Jeff. *Anglo-Saxon Oral Poetry: A Study of the Traditions*. New Haven: Yale University Press, 1980.
+- Orchard, Andy. *A Critical Companion to Beowulf*. Cambridge: D. S. Brewer, 2003.
+- Orwell, George. "Inside the Whale," in *Inside the Whale and Other Essays* (London: Penguin, 1962).
+- Owen, Susan J., ed. *A Companion to Restoration Drama* (Oxford: Blackwell, 2001).
+- Page, R. I. *Matthew Parker and His Books*. Kalamazoo: Medieval Institute Publications, 1993.
+- Painter, George D. *William Caxton: A Biography*. London: Chatto & Windus, 1976.
+- Pearsall, Derek. *The Life of Geoffrey Chaucer: A Critical Biography*. Oxford: Blackwell, 1992.
+- Phillips, Mike, and Trevor Phillips. *Windrush: The Irresistible Rise of Multi-Racial Britain* (London: HarperCollins, 1998).
+- Picard, Liza. *Restoration London* (London: Weidenfeld & Nicolson, 1997).
+- Pittard, Christopher. *Purity and Contamination in Late Victorian Detective Fiction* (Farnham: Ashgate, 2011).
+- Pittock, Murray, ed. *The Reception of Robert Burns in Europe* (London: Continuum, 2014).
+- Plumwood, Val. *Feminism and the Mastery of Nature* (London: Routledge, 1993).
+- Pope, John C. "Second Thoughts on the Interpretation of *The Seafarer*." *Anglo-Saxon England* 3 (1974): 75–86.
+- Powell, Kerry. *The Cambridge Companion to Victorian and Edwardian Theatre* (Cambridge: Cambridge University Press, 2004).
+- Procter, James. *Dwelling Places: Postwar Black British Writing* (Manchester: Manchester University Press, 2003).
+- Punter, David, and Glennis Byron. *The Gothic* (Oxford: Blackwell, 2004).
+- Putter, Ad. *An Introduction to the Gawain-Poet*. London: Longman, 1996.
+- Rambaran-Olm, Mary, and Erik Wade. "The Many Myths of the Term 'Anglo-Saxon.'" *Smithsonian Magazine*, 2021.
+- Ransom, John Crowe. *The New Criticism* (Norfolk, CT: New Directions, 1941).
+- Rawson, Claude. *God, Gulliver and Genocide: Swift as Reader, 1945–2000* (Oxford: Oxford University Press, 2001).
+- Reddick, Allen. *The Making of Johnson's Dictionary, 1746–1773*, rev. ed. (Cambridge: Cambridge University Press, 1996).
+- Reeves, Richard. *John Stuart Mill: Victorian Firebrand* (London: Atlantic Books, 2007).
+- Richetti, John. *The English Novel in History, 1700–1780* (London: Routledge, 1999).
+- Ricks, Christopher. *Tennyson*, 2nd ed. (Berkeley: University of California Press, 1989).
+- Riggs, David. *The World of Christopher Marlowe*. New York: Henry Holt, 2004.
+- Roe, Nicholas. *Wordsworth and Coleridge: The Radical Years* (Oxford: Clarendon Press, 1988).
+- Rogers, Pat. *An Introduction to Pope* (London: Methuen, 1975).
+- Rosenbaum, S. P. *The Bloomsbury Group: A Collection of Memoirs and Commentary* (Toronto: University of Toronto Press, 1975).
+- Rosenberg, John D. *The Darkening Glass: A Portrait of Ruskin's Genius* (New York: Columbia University Press, 1961).
+- Rumbold, Valerie. *Women's Place in Pope's World* (Cambridge: Cambridge University Press, 1989).
+- Ryals, Clyde de L. *The Life of Robert Browning: A Critical Biography* (Oxford: Blackwell, 1993).
+- Sacks, Peter M. *The English Elegy: Studies in the Genre from Spenser to Yeats* (Baltimore: Johns Hopkins University Press, 1985).
+- Said, Edward W. *Culture and Imperialism* (New York: Knopf, 1993).
+- Said, Edward. *Culture and Imperialism* (New York: Knopf, 1993).
+- Sandbrook, Dominic. *Never Had It So Good: A History of Britain from Suez to the Beatles* (London: Little, Brown, 2005).
+- Sarvan, Charles. *Chimamanda Ngozi Adichie's Fiction* (Amherst, NY: Cambria Press, 2018).
+- Schoenbaum, Samuel. *William Shakespeare: A Compact Documentary Life*, rev. ed. Oxford: Oxford University Press, 1987.
+- Sessions, W. A. *Henry Howard, Earl of Surrey: A Life*. Oxford: Oxford University Press, 1999.
+- Shapin, Steven, and Simon Schaffer. *Leviathan and the Air-Pump: Hobbes, Boyle, and the Experimental Life* (Princeton: Princeton University Press, 1985).
+- Shapiro, James. *Contested Will: Who Wrote Shakespeare?* London: Faber and Faber, 2010.
+- Sharpe, Kevin. *Criticism and Compliment: The Politics of Literature in the England of Charles I*. Cambridge: Cambridge University Press, 1987.
+- Shippey, Tom. *The Road to Middle-earth*, rev. ed. Boston: Houghton Mifflin, 2003.
+- Sierz, Aleks. *In-Yer-Face Theatre: British Drama Today* (London: Faber and Faber, 2001).
+- Simpson, James. *Piers Plowman: An Introduction*, 2nd ed. Exeter: University of Exeter Press, 2007.
+- Sinfield, Alan. *Alfred Tennyson* (Oxford: Blackwell, 1986).
+- Sitter, John. *Literary Loneliness in Mid-Eighteenth-Century England* (Ithaca: Cornell University Press, 1982).
+- Smith, Nigel. *Andrew Marvell: The Chameleon*. New Haven: Yale University Press, 2010.
+- Spalding, Frances. *Roger Fry: Art and Life* (London: Granada, 1980).
+- Spencer, Jane. *The Rise of the Woman Novelist: From Aphra Behn to Jane Austen* (Oxford: Blackwell, 1986).
+- St Clair, William. *That Greece Might Still Be Free: The Philhellenes in the War of Independence* (Oxford: Oxford University Press, 1972).
+- Stafford, Fiona. *The Sublime Savage: A Study of James Macpherson and the Poems of Ossian* (Edinburgh: Edinburgh University Press, 1988).
+- Staley, Lynn. *Margery Kempe's Dissenting Fictions*. University Park: Pennsylvania State University Press, 1994.
+- Stallworthy, Jon. *Wilfred Owen: A Biography* (Oxford: Oxford University Press, 1974).
+- Stone, Marjorie. *Elizabeth Barrett Browning* (Basingstoke: Macmillan, 1995).
+- Swanton, Michael, ed. *The Dream of the Rood*, rev. ed. Exeter: University of Exeter Press, 1996.
+- Taylor, Gary, and John Lavagnino, eds. *Thomas Middleton and Early Modern Textual Culture*. Oxford: Oxford University Press, 2007.
+- Taylor, John Russell. *Anger and After: A Guide to the New British Drama* (London: Methuen, 1962).
+- Tew, Philip. *Zadie Smith* (Basingstoke: Palgrave Macmillan, 2010).
+- Thomas, Julia. *Pictorial Victorians: The Inscription of Values in Word and Image* (Athens: Ohio University Press, 2004).
+- Thompson, E. P. *The Making of the English Working Class* (London: Victor Gollancz, 1963).
+- Thomson, Patricia. *Sir Thomas Wyatt and His Background*. Stanford: Stanford University Press, 1964.
+- Tickell, Alex. *Arundhati Roy's The God of Small Things* (London: Routledge, 2007).
+- Todd, Janet. *The Secret Life of Aphra Behn* (London: Andre Deutsch, 1996).
+- Todd, Janet. *Sensibility: An Introduction* (London: Methuen, 1986).
+- Tolkien, J. R. R. "Beowulf: The Monsters and the Critics." *Proceedings of the British Academy* 22 (1936): 245–295.
+- Tomalin, Claire. *Jane Austen: A Life* (London: Viking, 1997).
+- Tomalin, Claire. *Charles Dickens: A Life* (London: Viking, 2011).
+- Trilling, Lionel. *Matthew Arnold*, rev. ed. (New York: Norton, 1949).
+- Trumpener, Katie. *Bardic Nationalism: The Romantic Novel and the British Empire* (Princeton: Princeton University Press, 1997).
+- Uglow, Jenny. *Elizabeth Gaskell: A Habit of Stories* (London: Faber and Faber, 1993).
+- Van Sant, Ann Jessie. *Eighteenth-Century Sensibility and the Novel: The Senses in Social Context* (Cambridge: Cambridge University Press, 1993).
+- Vendler, Helen. *The Poetry of George Herbert*. Cambridge, MA: Harvard University Press, 1975.
+- Vendler, Helen. *The Odes of John Keats* (Cambridge, MA: Harvard University Press, 1983).
+- Vickers, Brian, ed. *English Renaissance Literary Criticism* (Oxford: Clarendon Press, 1999).
+- Viscomi, Joseph. *Blake and the Idea of the Book* (Princeton: Princeton University Press, 1993).
+- Waldron, Ronald. "John Trevisa and the Use of English." *Proceedings of the British Academy* 74 (1988): 171–202.
+- Walker-Pelkey, Faye. "Frige hwæt ic hatte: The Wife's Lament as Riddle." *Papers on Language and Literature* 28 (1992): 242–266.
+- Waller, Gary. *Edmund Spenser: A Literary Life*. Basingstoke: Macmillan, 1994.
+- Wardle, Ralph M. *Oliver Goldsmith* (Lawrence: University of Kansas Press, 1957).
+- Watson, Nicholas, and Jacqueline Jenkins, eds. *The Writings of Julian of Norwich*. University Park: Pennsylvania State University Press, 2006.
+- Watt, Ian. *The Rise of the Novel: Studies in Defoe, Richardson and Fielding* (London: Chatto & Windus, 1957).
+- Watt, Ian. *Conrad in the Nineteenth Century* (Berkeley: University of California Press, 1979).
+- Weinberg, Bernard. *A History of Literary Criticism in the Italian Renaissance*, 2 vols (Chicago: University of Chicago Press, 1961).
+- Wellek, René. *A History of Modern Criticism, 1750–1950*, vol. 2 (New Haven: Yale University Press, 1955).
+- Wheeler, Kathleen M. *Sources, Processes and Methods in Coleridge's Biographia Literaria* (Cambridge: Cambridge University Press, 1980).
+- White, Norman. *Hopkins: A Literary Biography* (Oxford: Clarendon Press, 1992).
+- Whitelock, Dorothy. "The Interpretation of *The Seafarer*." In *The Early Cultures of North-West Europe*, ed. Cyril Fox and Bruce Dickins (Cambridge: Cambridge University Press, 1950), 259–272.
+- Wickham, Glynne, Herbert Berry, and William Ingram, eds. *English Professional Theatre, 1530–1660*. Cambridge: Cambridge University Press, 2000.
+- Wilcher, Robert. *The Writing of Royalism, 1628–1660*. Cambridge: Cambridge University Press, 2001.
+- Williams, Raymond. *Culture and Society, 1780–1950* (London: Chatto & Windus, 1958).
+- Williams, Raymond. *The Long Revolution* (London: Chatto and Windus, 1961).
+- Windeatt, Barry. *Oxford Guides to Chaucer: Troilus and Criseyde*. Oxford: Clarendon Press, 1992.
+- Windeatt, Barry, ed. *A Companion to The Book of Margery Kempe*. Cambridge: D. S. Brewer, 2004.
+- Winn, James Anderson. *John Dryden and His World* (New Haven: Yale University Press, 1987).
+- Wittreich, Joseph. *Interpreting Samson Agonistes*. Princeton: Princeton University Press, 1986.
+- Womersley, David, ed. *Augustan Critical Writing* (London: Penguin Classics, 1997).
+- Wong, Cynthia F. *Kazuo Ishiguro*, 2nd ed. (Tavistock: Northcote House, 2005).
+- Woolf, Virginia. "George Eliot," in *The Common Reader* (London: Hogarth Press, 1925).
+- Worthen, John. *D. H. Lawrence: The Life of an Outsider* (London: Allen Lane, 2005).
+- Wu, Duncan. *William Hazlitt: The First Modern Man* (Oxford: Oxford University Press, 2008).
+- Wynn Thomas, M. *R. S. Thomas: Serial Obsessive* (Cardiff: University of Wales Press, 2013).
+- Yorke, Barbara. *Kings and Kingdoms of Early Anglo-Saxon England*. London: Routledge, 1990.
+- Young, Robert J. C. *Postcolonialism: A Very Short Introduction* (Oxford: Oxford University Press, 2003).
+- Young, Robert J. C. *White Mythologies: Writing History and the West*, 2nd ed. (London: Routledge, 2004).
+- Zwicker, Steven N. *Politics and Language in Dryden's Poetry* (Princeton: Princeton University Press, 1984).
+
+---
+
+### Notes
+
+1. This appendix consolidates every Suggested Readings citation from Parts I through XI into two flat, alphabetized lists; it deduplicates only exact repeated citations of the same edition, not every citation of the same underlying work in a different edition.
+2. Citation style follows MHRA convention (Style Guide, Section 6), matching the format each chapter itself used; minor formatting variation between entries reflects each chapter's own original citation, not an error introduced in this appendix.
+3. To find which chapter recommended a given title, and why, consult that title's author or subject in Appendix A (the consolidated glossary) or search the book's chapters directly.

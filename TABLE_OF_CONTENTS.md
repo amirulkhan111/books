@@ -139,7 +139,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 11. Postcolonial theory
 12. Ecocriticism and the digital humanities
 
-## Part XII — Appendices 🟨 (3/5 appendices drafted)
+## Part XII — Appendices 🟨 (4/5 appendices drafted)
 - A. Consolidated glossary of literary terms
 - B. Master chronological timeline (all periods)
 - C. UGC-NET / CUET-PG syllabus concordance table
