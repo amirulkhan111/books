@@ -1,6 +1,6 @@
 # Part XI — Literary Criticism and Theory — Status
 
-Status: 🟨 in progress (8 of 12 chapters drafted)
+Status: 🟨 in progress (9 of 12 chapters drafted)
 
 - [x] 1. [Classical and Renaissance criticism: Aristotle's afterlife, Sidney, Jonson, Dryden](01-classical-renaissance-criticism-aristotle-sidney-jonson-dryden.md) — 🟨 drafted
 - [x] 2. [Neoclassical criticism: Pope, Johnson](02-neoclassical-criticism-pope-johnson.md) — 🟨 drafted
@@ -10,7 +10,7 @@ Status: 🟨 in progress (8 of 12 chapters drafted)
 - [x] 6. [Structuralism and formalism](06-structuralism-and-formalism.md) — 🟨 drafted
 - [x] 7. [Post-structuralism and deconstruction](07-post-structuralism-and-deconstruction.md) — 🟨 drafted
 - [x] 8. [Marxist criticism](08-marxist-criticism.md) — 🟨 drafted
-- [ ] 9. Psychoanalytic criticism
+- [x] 9. [Psychoanalytic criticism](09-psychoanalytic-criticism.md) — 🟨 drafted
 - [ ] 10. Feminist criticism
 - [ ] 11. Postcolonial theory
 - [ ] 12. Ecocriticism and the digital humanities
