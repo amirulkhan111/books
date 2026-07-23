@@ -125,7 +125,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 8. Australian and Canadian literature in English
 9. Diaspora and migrant writing
 
-## Part XI — Literary Criticism and Theory 🟨 (12/12 chapters drafted; peer review pending)
+## Part XI — Literary Criticism and Theory ✅ (12/12 chapters complete and peer/copy-edit reviewed)
 1. Classical and Renaissance criticism: Aristotle's afterlife, Sidney, Jonson, Dryden
 2. Neoclassical criticism: Pope, Johnson
 3. Romantic criticism: Wordsworth's Preface, Coleridge, Shelley's *Defence*
