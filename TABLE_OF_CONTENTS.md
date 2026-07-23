@@ -114,7 +114,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 6. Contemporary British fiction: McEwan, Ishiguro, Winterson, Smith
 7. Contemporary British theatre: Stoppard, Churchill, Kane
 
-## Part X — Postcolonial and Global Anglophone Literatures 🟨 (5/9 chapters drafted)
+## Part X — Postcolonial and Global Anglophone Literatures 🟨 (6/9 chapters drafted)
 1. Theorizing postcolonial literature: key concepts and debates
 2. Irish literature: Swift to Joyce to Heaney — a distinct national tradition
 3. Scottish literature: from the Makars to contemporary Scots writing
