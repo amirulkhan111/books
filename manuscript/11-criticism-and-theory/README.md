@@ -1,6 +1,6 @@
 # Part XI — Literary Criticism and Theory — Status
 
-Status: 🟨 in progress (6 of 12 chapters drafted)
+Status: 🟨 in progress (7 of 12 chapters drafted)
 
 - [x] 1. [Classical and Renaissance criticism: Aristotle's afterlife, Sidney, Jonson, Dryden](01-classical-renaissance-criticism-aristotle-sidney-jonson-dryden.md) — 🟨 drafted
 - [x] 2. [Neoclassical criticism: Pope, Johnson](02-neoclassical-criticism-pope-johnson.md) — 🟨 drafted
@@ -8,7 +8,7 @@ Status: 🟨 in progress (6 of 12 chapters drafted)
 - [x] 4. [Victorian criticism: Arnold](04-victorian-criticism-arnold.md) — 🟨 drafted
 - [x] 5. [Early 20th-century criticism: Eliot, I. A. Richards, the New Criticism](05-early-20th-century-criticism-eliot-richards-new-criticism.md) — 🟨 drafted
 - [x] 6. [Structuralism and formalism](06-structuralism-and-formalism.md) — 🟨 drafted
-- [ ] 7. Post-structuralism and deconstruction
+- [x] 7. [Post-structuralism and deconstruction](07-post-structuralism-and-deconstruction.md) — 🟨 drafted
 - [ ] 8. Marxist criticism
 - [ ] 9. Psychoanalytic criticism
 - [ ] 10. Feminist criticism
