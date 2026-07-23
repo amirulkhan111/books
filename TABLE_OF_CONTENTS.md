@@ -105,7 +105,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 7. The Bloomsbury Group and literary criticism between the wars
 8. Interwar and 1930s writing: Auden generation (Auden, Spender, MacNeice, Day-Lewis)
 
-## Part IX — Postwar, Postmodern, and Contemporary British Literature, 1945–present 🟨 (6/7 chapters drafted)
+## Part IX — Postwar, Postmodern, and Contemporary British Literature, 1945–present 🟨 (all 7 chapters drafted; peer/copy-edit review pass pending)
 1. Literature after 1945: austerity, the welfare state, decolonization
 2. The Movement poets and Philip Larkin
 3. Angry Young Men and postwar drama: Osborne, Beckett, Pinter
