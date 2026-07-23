@@ -1,9 +1,9 @@
 # Part XI — Literary Criticism and Theory — Status
 
-Status: 🟨 in progress (1 of 12 chapters drafted)
+Status: 🟨 in progress (2 of 12 chapters drafted)
 
 - [x] 1. [Classical and Renaissance criticism: Aristotle's afterlife, Sidney, Jonson, Dryden](01-classical-renaissance-criticism-aristotle-sidney-jonson-dryden.md) — 🟨 drafted
-- [ ] 2. Neoclassical criticism: Pope, Johnson
+- [x] 2. [Neoclassical criticism: Pope, Johnson](02-neoclassical-criticism-pope-johnson.md) — 🟨 drafted
 - [ ] 3. Romantic criticism: Wordsworth's Preface, Coleridge, Shelley's *Defence*
 - [ ] 4. Victorian criticism: Arnold
 - [ ] 5. Early 20th-century criticism: Eliot, I. A. Richards, the New Criticism
