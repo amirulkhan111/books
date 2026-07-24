@@ -1,5 +1,5 @@
 # Master Table of Contents
-### *English Literature Through the Ages: A Historical and Critical Companion*
+### *English Literature Through the Ages: A Historical and Critical Companion to English and Anglophone Literature*
 
 Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 

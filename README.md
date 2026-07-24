@@ -1,5 +1,5 @@
 # English Literature Through the Ages
-### *A Historical and Critical Companion*
+### *A Historical and Critical Companion to English and Anglophone Literature*
 
 A definitive, publication-grade history of English literature — written so that a first-year undergraduate with **no prior knowledge of the subject** can read it and genuinely understand it, while still holding the scholarly rigor and syllabus alignment (**NEP 2020**, **UGC-NET**, **CUET-PG**, and major Indian and international university curricula) that a serious course companion needs, and benchmarked against (without imitating) the standard histories in the field.
 

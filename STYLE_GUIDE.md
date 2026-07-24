@@ -1,5 +1,5 @@
 # Style Guide & Editorial Standards
-### *English Literature Through the Ages: A Historical and Critical Companion*
+### *English Literature Through the Ages: A Historical and Critical Companion to English and Anglophone Literature*
 
 This document governs every chapter added to `manuscript/`. It exists so the book stays internally consistent, verifiable, and usable for exam preparation as it is written incrementally.
 
