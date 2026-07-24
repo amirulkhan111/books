@@ -5,7 +5,7 @@ Status legend: ⬜ not started · 🟨 drafted · ✅ verified & final
 
 ---
 
-## Front Matter 🟨 (4/4 items drafted; peer review pending)
+## Front Matter ✅ (4/4 items complete and peer/copy-edit reviewed)
 - Preface & how to use this book
 - Note on periodization and its limits
 - Master timeline (all periods, single fold-out chart)
