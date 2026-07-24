@@ -1,9 +1,9 @@
 # Front Matter — Status
 
-Status: 🟨 in progress (1 of 4 items drafted)
+Status: 🟨 in progress (2 of 4 items drafted)
 
 - [x] [Preface & how to use this book](01-preface.md) — 🟨 drafted
-- [ ] Note on periodization and its limits
+- [x] [Note on periodization and its limits](02-note-on-periodization.md) — 🟨 drafted
 - [ ] Master timeline (all periods, single fold-out chart)
 - [ ] Note on the critical apparatus (learning outcomes, MCQs, etc.)
 
