@@ -6,7 +6,7 @@
 
 This appendix merges the Suggested Readings from every chapter across Parts I through XI into two alphabetically sorted lists: primary texts (the literary works themselves, in the editions each chapter recommended) and secondary criticism (scholarly and critical works). Citations are given exactly as each chapter's own Suggested Readings section supplied them; where two chapters recommended the identical edition of the same work, that entry appears once here. Where a single author's works appear more than once, entries are ordered by title. For the specific chapter that recommended any given title, and the teaching context behind that recommendation, search this book's chapters directly — this appendix is deliberately a flat, searchable reference list rather than a chapter-by-chapter index (see Appendices A and B for that kind of cross-referenced format).
 
-**Primary sources: 314 unique entries. Secondary criticism: 354 unique entries. Total: 668.**
+**Primary sources: 312 unique entries. Secondary criticism: 354 unique entries. Total: 666.**
 
 ---
 
@@ -119,7 +119,6 @@ This appendix merges the Suggested Readings from every chapter across Parts I th
 - Gaskell, Elizabeth. *North and South*, ed. Sally Shuttleworth (Oxford: Oxford World's Classics, 2008).
 - Geoffrey of Monmouth, *The History of the Kings of Britain*, trans. Lewis Thorpe (London: Penguin Classics, 1966).
 - Gilbert, W. S., and Arthur Sullivan. *The Mikado*, in *The Complete Plays of Gilbert and Sullivan* (New York: W. W. Norton, 1976).
-- Gilbert, Sandra M., and Susan Gubar. *The Madwoman in the Attic: The Woman Writer and the Nineteenth-Century Literary Imagination* (New Haven: Yale University Press, 1979).
 - Gildas, *The Ruin of Britain and Other Works*, ed. and trans. Michael Winterbottom (London: Phillimore, 1978).
 - Glotfelty, Cheryll, and Harold Fromm, eds. *The Ecocriticism Reader: Landmarks in Literary Ecology* (Athens: University of Georgia Press, 1996).
 - Golding, William. *Lord of the Flies* (London: Faber and Faber, 1954).
@@ -189,7 +188,6 @@ This appendix merges the Suggested Readings from every chapter across Parts I th
 - McEwan, Ian. *Atonement* (London: Jonathan Cape, 2001).
 - Middleton, Thomas. *Women Beware Women and Other Plays*, ed. Richard Dutton (Oxford: Oxford World's Classics, 1999).
 - Mill, John Stuart. *On Liberty and Other Writings*, ed. Stefan Collini (Cambridge: Cambridge University Press, 1989).
-- Millett, Kate. *Sexual Politics* (New York: Doubleday, 1970).
 - Milton, John. *Complete Shorter Poems*, ed. John Carey, 2nd ed. (Harlow: Longman, 1997).
 - Milton, John. *Areopagitica and Other Political Writings*, ed. John Alvis (Indianapolis: Liberty Fund, 1999).
 - Milton, John. *Paradise Lost*, ed. Alastair Fowler, 2nd ed. (Harlow: Longman, 2007).
@@ -693,3 +691,4 @@ This appendix merges the Suggested Readings from every chapter across Parts I th
 1. This appendix consolidates every Suggested Readings citation from Parts I through XI into two flat, alphabetized lists; it deduplicates only exact repeated citations of the same edition, not every citation of the same underlying work in a different edition.
 2. Citation style follows MHRA convention (Style Guide, Section 6), matching the format each chapter itself used; minor formatting variation between entries reflects each chapter's own original citation, not an error introduced in this appendix.
 3. To find which chapter recommended a given title, and why, consult that title's author or subject in Appendix A (the consolidated glossary) or search the book's chapters directly.
+4. A small number of works of literary theory and criticism (e.g., Millett's *Sexual Politics*, Gilbert and Gubar's *The Madwoman in the Attic*) are listed under "Primary sources" in Part XI's own chapters, since that Part studies criticism itself as its primary subject matter — but appear only once here, under Secondary Criticism, reflecting their character as works of criticism from the whole book's bibliographic perspective rather than duplicating them in both lists.
